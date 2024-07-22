@@ -1,0 +1,582 @@
+id,league_id,league,utc_time,date,time,home,away,ft_ml_h_opening,ft_ml_d_opening,ft_ml_a_opening,ft_ml_h_closing,ft_ml_d_closing,ft_ml_a_closing,ft_ah_handicap_opening,ft_ah_h_opening,ft_ah_a_opening,ft_ah_handicap_closing,ft_ah_h_closing,ft_ah_a_closing,ft_ou_handicap_opening,ft_ou_o_opening,ft_ou_u_opening,ft_ou_handicap_closing,ft_ou_o_closing,ft_ou_u_closing
+7632764,222,Iceland Premier League,1721675700,22/07/2024,16:15,FH Hafnarfjordur,IA Akranes,1.666,4.0,4.2,1.833,3.75,3.6,-0.75,1.875,1.975,-0.5,1.825,1.975,3.5,1.975,1.875,3.25,1.875,1.925
+7633102,431,Iceland Premier League Women,1721844000,24/07/2024,15:00,FH Hafnarfjordur Women,Stjarnan Women,,,,,,,,,,,,,,,,,,
+7633103,431,Iceland Premier League Women,1721844000,24/07/2024,15:00,Keflavik Women,Thor KA Akureyri Women,,,,,,,,,,,,,,,,,,
+7633104,431,Iceland Premier League Women,1721844000,24/07/2024,15:00,Vikingur Reykjavik Women,Throttur Reykjavik Women,,,,,,,,,,,,,,,,,,
+7633105,431,Iceland Premier League Women,1721930400,25/07/2024,15:00,Breidablik Women,Fylkir Reykjavik Women,,,,,,,,,,,,,,,,,,
+7633106,431,Iceland Premier League Women,1721844000,24/07/2024,15:00,Tindastoll Women,Valur Reykjavik Women,,,,,,,,,,,,,,,,,,
+7633894,609,Iceland 2 Deild,1721934900,25/07/2024,16:15,KFG Gardabaer,HotturHuginn,,,,,,,,,,,,,,,,,,
+7634530,392,Iceland 1 Deild Women,1721848500,24/07/2024,16:15,Grindavik Women,AftureldingFram Women,,,,,,,,,,,,,,,,,,
+7634531,392,Iceland 1 Deild Women,1721934900,25/07/2024,16:15,Fram Reykjavik Women,IA Akranes Women,,,,,,,,,,,,,,,,,,
+7635224,472,Iceland 1 Deild,1721934900,25/07/2024,16:15,Grotta Seltjarnarnes,Grindavik,,,,,,,,,,,,,,,,,,
+7635225,472,Iceland 1 Deild,1721934900,25/07/2024,16:15,IR Reykjavik,Leiknir Reykjavik,,,,,,,,,,,,,,,,,,
+7635226,472,Iceland 1 Deild,1721934900,25/07/2024,16:15,Afturelding,Keflavik,,,,,,,,,,,,,,,,,,
+7635227,472,Iceland 1 Deild,1721934900,25/07/2024,16:15,Njardvik,Throttur Reykjavik,,,,,,,,,,,,,,,,,,
+7670136,26549,Argentina Liga Profesional,1721943900,25/07/2024,18:45,Lanus,Belgrano,1.9,3.25,4.5,2.05,3.2,4.0,-0.5,2.05,1.8,-0.5,2.05,1.8,2.0,1.875,1.975,2.0,1.875,1.975
+7670137,26549,Argentina Liga Profesional,1721860200,24/07/2024,19:30,Godoy Cruz,River Plate,2.9,3.5,2.25,3.8,3.6,1.95,0.25,2.05,1.8,0.5,1.9,1.95,2.5,2.0,1.85,2.5,2.025,1.825
+7670138,26549,Argentina Liga Profesional,1721852100,24/07/2024,17:15,Sarmiento,Racing Club,3.4,3.2,2.2,4.75,3.4,1.833,0.5,1.875,1.975,0.5,2.05,1.8,2.25,2.05,1.8,2.25,2.025,1.825
+7670140,26549,Argentina Liga Profesional,1721860200,24/07/2024,19:30,Huracan,Estudiantes LP,2.25,3.0,3.6,2.35,2.9,3.6,-0.25,1.925,1.925,-0.25,1.975,1.875,2.0,1.775,2.1,2.0,1.9,1.95
+7670141,26549,Argentina Liga Profesional,1721771100,23/07/2024,18:45,Gimnasia LP,San Lorenzo,2.2,3.1,3.6,2.9,3.0,2.7,-0.25,1.775,2.1,0.0,1.975,1.875,2.0,1.875,1.975,1.75,1.8,2.05
+7670142,26549,Argentina Liga Profesional,1721779200,23/07/2024,21:00,CA Independiente,Barracas Central,1.7,3.5,5.0,1.85,3.2,5.0,-0.75,1.975,1.875,-0.5,1.825,2.025,2.25,2.0,1.85,2.0,1.8,2.05
+7670145,26549,Argentina Liga Profesional,1721851200,24/07/2024,17:00,CA Talleres de Cordoba,Defensa y Justicia,1.7,3.5,5.5,1.7,3.6,5.5,-0.75,1.95,1.9,-0.75,1.925,1.925,2.5,1.975,1.875,2.5,2.025,1.825
+7670146,26549,Argentina Liga Profesional,1721943900,25/07/2024,18:45,Platense,Velez Sarsfield,2.875,2.875,2.75,2.9,3.0,2.625,0.25,1.75,2.125,0.0,2.025,1.825,1.75,1.925,1.925,1.75,1.825,2.025
+7670925,26549,Argentina Liga Profesional,1721771100,23/07/2024,18:45,Newells,Independiente Rivadavia,1.666,3.5,5.5,1.666,3.4,6.5,-0.75,1.925,1.925,-0.75,1.875,1.975,2.0,1.9,1.95,2.0,2.1,1.775
+7670926,26549,Argentina Liga Profesional,1721757600,23/07/2024,15:00,Deportivo Riestra,Argentinos Jrs,3.2,3.2,2.35,3.9,3.0,2.15,0.25,1.85,2.0,0.25,2.025,1.825,2.0,1.9,1.95,1.75,1.9,1.95
+7689730,7,USA USL Championship,1721833200,24/07/2024,12:00,Loudoun United FC,Charleston Battery,2.75,3.5,2.25,2.75,3.5,2.25,,,,,,,,,,,,
+7740709,8914,South Korea K League 2,1721730600,23/07/2024,07:30,Seongnam FC,Jeonnam Dragons,3.1,3.3,2.15,2.7,3.1,2.45,0.25,1.925,1.875,0.0,2.025,1.775,2.5,1.85,1.95,2.5,2.025,1.775
+7740710,8914,South Korea K League 2,1721817000,24/07/2024,07:30,Gimpo FC,Seoul ELand FC,3.2,3.2,2.15,3.2,3.2,2.15,0.25,1.9,1.9,0.25,1.9,1.9,2.25,1.975,1.825,2.25,1.95,1.85
+7740711,8914,South Korea K League 2,1721817000,24/07/2024,07:30,Chungbuk Cheongju,Chungnam Asan FC,2.75,3.0,2.5,2.75,3.0,2.5,0.0,2.0,1.8,0.0,2.0,1.8,2.0,1.85,1.95,2.0,1.875,1.925
+7740723,8914,South Korea K League 2,1721730600,23/07/2024,07:30,Busan I Park,Gyeongnam FC,1.909,3.3,3.75,1.909,3.3,3.75,-0.5,1.95,1.85,-0.5,1.95,1.85,2.25,1.825,1.975,2.25,1.875,1.925
+7740724,8914,South Korea K League 2,1721730600,23/07/2024,07:30,Bucheon,Suwon Bluewings,3.4,3.3,2.0,3.1,3.5,2.05,0.5,1.775,2.025,0.25,2.0,1.8,2.25,1.85,1.95,2.5,1.95,1.85
+7740725,8914,South Korea K League 2,1721817000,24/07/2024,07:30,Ansan Greeners FC,FC Anyang,4.333,3.6,1.7,4.5,3.6,1.666,0.75,1.825,1.975,0.75,1.85,1.95,2.25,1.8,2.0,2.25,1.825,1.975
+7767371,36771,Finland Ykkosliiga,1721835000,24/07/2024,12:30,FF Jaro,MP,1.25,6.0,8.5,1.222,6.5,9.0,-1.75,2.0,1.8,-1.75,1.875,1.925,2.75,1.9,1.9,2.75,1.8,2.0
+7792916,182,Chile Primera B,1721674800,22/07/2024,16:00,Deportes Recoleta,Union San Felipe,1.8,3.4,3.8,2.05,3.3,3.25,-0.5,1.85,1.95,-0.25,1.8,2.0,2.5,1.95,1.85,2.5,1.95,1.85
+7793553,182,Chile Primera B,1721689200,22/07/2024,20:00,Curico Unido,Barnechea,2.5,3.2,2.5,2.4,3.2,2.625,0.0,1.925,1.875,0.0,1.8,2.0,2.5,1.925,1.875,2.5,1.95,1.85
+7873847,686,Chile Segunda,1721689200,22/07/2024,20:00,Concon National,Melipilla,4.2,3.6,1.666,4.0,3.7,1.7,0.75,1.85,1.95,0.75,1.85,1.95,2.5,1.875,1.925,2.5,1.875,1.925
+7890072,191,Finland Kakkonen Group C,1721923200,25/07/2024,13:00,TP47,JS Hercules,,,,,,,,,,,,,,,,,,
+7890597,191,Finland Kakkonen Group C,1721836800,24/07/2024,13:00,OTP,JBK,,,,,,,,,,,,,,,,,,
+7896043,374,Finland Kakkonen Group B,1721750400,23/07/2024,13:00,Tampere Utd,Ilves Kissat,,,,,,,,,,,,,,,,,,
+7902176,155,Brazil Serie A,1721862000,24/07/2024,20:00,Vitoria,Flamengo,4.2,3.6,1.8,4.333,3.5,1.85,0.5,2.1,1.8,0.5,2.03,1.87,2.25,1.83,2.07,2.25,1.93,1.97
+7902415,155,Brazil Serie A,1721867400,24/07/2024,21:30,Atletico GO,EC Bahia,2.7,3.3,2.45,2.7,3.25,2.7,0.0,2.05,1.85,0.0,1.98,1.92,2.25,1.93,1.97,2.5,2.07,1.83
+7902590,155,Brazil Serie A,1721867400,24/07/2024,21:30,Fluminense,Palmeiras,3.25,3.3,2.2,3.9,3.4,2.0,0.5,1.87,2.03,0.5,1.83,2.07,2.25,1.85,2.05,2.25,1.87,2.03
+7902634,155,Brazil Serie A,1721860200,24/07/2024,19:30,Sao Paulo,Botafogo,2.25,3.4,3.0,2.2,3.3,3.4,-0.25,2.0,1.9,-0.25,1.88,2.02,2.25,2.0,1.9,2.25,2.05,1.85
+7902793,155,Brazil Serie A,1721858400,24/07/2024,19:00,Cruzeiro,EC Juventude,1.571,3.75,6.0,1.533,3.9,7.0,-1.0,2.07,1.83,-1.0,2.0,1.9,2.25,1.9,2.0,2.25,1.83,2.07
+7902794,155,Brazil Serie A,1721948400,25/07/2024,20:00,Corinthians,Gremio,2.05,3.4,3.5,1.95,3.5,3.8,-0.5,2.06,1.84,-0.5,2.01,1.89,2.25,1.99,1.91,2.25,1.99,1.91
+7905629,300,South Korea Women K League,1721901600,25/07/2024,07:00,Suwon FMC Women,Hyundai Steel Red Angels Women,,,,,,,,,,,,,,,,,,
+7908588,300,South Korea Women K League,1721901600,25/07/2024,07:00,Seoul Amazones Women,Hwacheon KSPO Women,,,,,,,,,,,,,,,,,,
+7908645,300,South Korea Women K League,1721901600,25/07/2024,07:00,Gyeongju Women,Mungyeong Sangmu Women,,,,,,,,,,,,,,,,,,
+7908646,300,South Korea Women K League,1721901600,25/07/2024,07:00,Changnyeong Women,Sejong Sportstoto Women,,,,,,,,,,,,,,,,,,
+7928997,18642,USA NISA,1721872800,24/07/2024,23:00,Irvine Zeta FC,Capo FC,,,,,,,,,,,,,,,,,,
+7930405,18642,USA NISA,1721869200,24/07/2024,22:00,Arizona Monsoon FC,LA Force,,,,,,,,,,,,,,,,,,
+7930423,18642,USA NISA,1721862000,24/07/2024,20:00,Georgia Lions FC,Maryland Bobcats FC,,,,,,,,,,,,,,,,,,
+7930444,18642,USA NISA,1721862000,24/07/2024,20:00,Michigan Stars,Savannah Clovers,,,,,,,,,,,,,,,,,,
+7934978,246,Brazil Serie C,1721689200,22/07/2024,20:00,Clube Do Remo,CSA,1.75,3.3,4.2,1.95,3.2,3.7,-0.5,1.8,2.0,-0.5,2.0,1.8,2.25,1.95,1.85,2.0,1.775,2.025
+7936002,246,Brazil Serie C,1721689200,22/07/2024,20:00,Floresta EC,Sampaio Correa,2.25,3.0,3.0,2.05,3.0,3.5,-0.25,2.0,1.8,-0.25,1.825,1.975,2.0,1.9,1.9,2.0,1.975,1.825
+7948403,34433,Ecuador LigaPro Serie B,1721851200,24/07/2024,17:00,Manta FC,Independiente Juniors,2.75,3.0,2.4,2.9,3.0,2.3,,,,,,,2.25,1.825,1.975,2.25,1.825,1.975
+7948404,34433,Ecuador LigaPro Serie B,1721851200,24/07/2024,17:00,Club 9 de Octubre,Chacaritas SC,1.8,3.25,4.0,1.8,3.25,4.0,,,,,,,,,,,,
+7950614,34433,Ecuador LigaPro Serie B,1721851200,24/07/2024,17:00,CD Vargas Torres,Leones Del Norte,2.0,3.1,3.4,2.0,3.1,3.4,,,,,,,,,,,,
+7950615,34433,Ecuador LigaPro Serie B,1721764800,23/07/2024,17:00,San Antonio FC Cotacachi,Cuniburo,3.6,3.0,2.0,2.75,2.875,2.5,0.0,2.05,1.75,0.0,2.0,1.8,2.25,2.025,1.775,2.25,2.0,1.8
+7950616,34433,Ecuador LigaPro Serie B,1721937600,25/07/2024,17:00,Gualaceo SC,Guayaquil City,2.5,3.2,2.5,2.1,3.25,3.0,,,,,,,,,,,,
+7999905,37477,Olympics 2024 Soccer  Women,1721919600,25/07/2024,12:00,Spain Women,Japan Women,1.85,3.6,3.5,1.5,4.333,4.5,-0.5,1.9,1.9,-1.0,1.85,1.95,2.5,1.9,1.9,2.75,1.875,1.925
+7999907,37477,Olympics 2024 Soccer  Women,1721926800,25/07/2024,14:00,Germany Women,Australia Women,1.666,3.6,4.5,1.65,3.7,4.5,-0.75,1.9,1.9,-0.75,1.85,1.95,2.5,1.9,1.9,2.75,1.975,1.825
+7999910,37477,Olympics 2024 Soccer  Women,1721934000,25/07/2024,16:00,France Women,Colombia Women,1.3,5.0,8.0,1.25,4.75,9.0,-1.5,1.9,1.9,-1.75,2.0,1.8,2.75,1.825,1.975,3.0,1.95,1.85
+8000124,37477,Olympics 2024 Soccer  Women,1721919600,25/07/2024,12:00,Canada Women,New Zealand Women,1.5,3.75,5.75,1.27,4.75,12.0,-1.0,1.9,1.9,-1.5,1.8,2.0,2.5,1.9,1.9,2.75,1.85,1.95
+8005385,4645,Estonia Cup Women,1721840400,24/07/2024,14:00,JK Tabasalu Women,FC Flora Tallinn Women,,,,,,,,,,,,,,,,,,
+8024177,572,Kazakhstan Division 1,1721908800,25/07/2024,09:00,Okzhetpes Kokshetau,FC Arys,,,,,,,,,,,,,,,,,,
+8024178,572,Kazakhstan Division 1,1721905200,25/07/2024,08:00,Ekibastuz,Khan Tengri FC,,,,,,,,,,,,,,,,,,
+8024287,572,Kazakhstan Division 1,1721908800,25/07/2024,09:00,FK Aktobe Reserves,Altay,,,,,,,,,,,,,,,,,,
+8024662,32862,Brazil Serie A U20,1721844000,24/07/2024,15:00,Goias U20,Gremio U20,,,,,,,,,,,,,,,,,,
+8025208,32862,Brazil Serie A U20,1721844000,24/07/2024,15:00,Palmeiras U20,Fortaleza U20,,,,,,,,,,,,,,,,,,
+8025209,32862,Brazil Serie A U20,1721844000,24/07/2024,15:00,Ceara U20,Atletico Paranaense U20,3.5,3.6,1.9,3.5,3.6,1.9,,,,,,,,,,,,
+8025543,32862,Brazil Serie A U20,1721844000,24/07/2024,15:00,Flamengo U20,Botafogo RJ U20,,,,,,,,,,,,,,,,,,
+8025544,32862,Brazil Serie A U20,1721844000,24/07/2024,15:00,Sao Paulo U20,America MG U20,,,,,,,,,,,,,,,,,,
+8025545,32862,Brazil Serie A U20,1721844000,24/07/2024,15:00,Atletico Goianiense U20,Santos U20,,,,,,,,,,,,,,,,,,
+8025546,32862,Brazil Serie A U20,1721757600,23/07/2024,15:00,Fluminense U20,Corinthians U20,1.9,3.5,3.6,1.9,3.5,3.6,,,,,,,,,,,,
+8025547,32862,Brazil Serie A U20,1721844000,24/07/2024,15:00,Bahia U20,Cuiaba MT U20,,,,,,,,,,,,,,,,,,
+8025548,32862,Brazil Serie A U20,1721930400,25/07/2024,15:00,Internacional U20,Atletico Mineiro U20,,,,,,,,,,,,,,,,,,
+8025549,32862,Brazil Serie A U20,1721847600,24/07/2024,16:00,Cruzeiro U20,Bragantino U20,1.615,3.7,4.5,1.615,3.7,4.5,,,,,,,,,,,,
+8046937,572,Kazakhstan Division 1,1721916000,25/07/2024,11:00,Kaisar Kyzylorda Reserves,FC Jetisay,,,,,,,,,,,,,,,,,,
+8083799,25649,Finland Kansallinen Liiga Women,1721750400,23/07/2024,13:00,JyPK Women,FC Honka Women,3.75,4.75,1.571,4.333,5.0,1.45,,,,,,,,,,,,
+8089343,907,Singapore Premier League,1721735100,23/07/2024,08:45,Hougang United FC,Albirex Niigata Singapore,2.3,4.5,2.25,1.909,4.5,2.75,,,,,,,,,,,,
+8089730,907,Singapore Premier League,1721821500,24/07/2024,08:45,Tampines Rovers FC,Geylang International,,,,,,,,,,,,,,,,,,
+8089731,907,Singapore Premier League,1721821500,24/07/2024,08:45,Balestier Khalsa FC,Tanjong Pagar United,,,,,,,,,,,,,,,,,,
+8112991,37477,Olympics 2024 Soccer  Women,1721926800,25/07/2024,14:00,Nigeria Women,Brazil Women,5.75,3.75,1.5,5.75,3.7,1.533,1.0,1.9,1.9,1.0,1.875,1.925,2.5,1.9,1.9,2.75,1.975,1.825
+8112994,37477,Olympics 2024 Soccer  Women,1721934000,25/07/2024,16:00,USA Women,Zambia Women,1.062,10.0,34.0,1.045,12.0,34.0,-2.75,1.9,1.9,-3.0,1.8,2.0,3.5,1.975,1.825,3.75,1.925,1.875
+8126390,631,Elite Club Friendlies,1721775600,23/07/2024,20:00,Man City,Celtic,1.833,3.5,3.75,2.15,3.4,2.9,,,,,,,,,,,,
+8143427,383,Norway Division 3 Group 4,1721840400,24/07/2024,14:00,Orkla,TryggLade,,,,,,,,,,,,,,,,,,
+8158666,328,Brazil Serie B,1721781000,23/07/2024,21:30,Ponte Preta,Vila Nova,2.05,3.0,3.6,2.35,3.0,3.3,-0.25,1.8,2.05,-0.25,2.0,1.85,2.0,1.775,2.1,2.0,1.925,1.925
+8158667,328,Brazil Serie B,1721775600,23/07/2024,20:00,Mirassol,Avai,1.75,3.2,5.5,1.85,3.1,5.0,-0.75,2.025,1.825,-0.5,1.875,1.975,2.0,1.925,1.925,2.0,1.975,1.875
+8158668,328,Brazil Serie B,1721779200,23/07/2024,21:00,Ituano,America MG,4.0,3.4,1.833,4.75,3.3,1.833,0.5,1.975,1.875,0.5,2.025,1.825,2.5,2.025,1.825,2.25,1.825,2.025
+8158669,328,Brazil Serie B,1721689200,22/07/2024,20:00,Santos,Coritiba,1.615,3.5,6.25,1.571,3.5,7.0,-0.75,1.825,2.025,-0.75,1.775,2.1,2.25,1.925,1.925,2.25,2.1,1.775
+8158670,328,Brazil Serie B,1721772000,23/07/2024,19:00,Operario PR,Gremio Novorizontino,2.15,2.9,4.0,2.3,2.875,3.6,-0.25,1.8,2.05,-0.25,1.975,1.875,1.75,1.875,1.975,1.75,1.875,1.975
+8158671,328,Brazil Serie B,1721867400,24/07/2024,21:30,Amazonas FC,Guarani,2.0,3.0,3.8,1.85,3.1,4.2,-0.5,2.1,1.775,-0.5,1.925,1.925,2.0,2.0,1.85,2.0,1.975,1.875
+8158943,328,Brazil Serie B,1721772000,23/07/2024,19:00,Chapecoense,Sport Recife,3.5,3.0,2.25,3.6,2.9,2.25,0.25,1.9,1.95,0.25,1.9,1.95,2.0,1.825,2.025,2.0,1.95,1.9
+8159251,328,Brazil Serie B,1721865600,24/07/2024,21:00,Brusque,Paysandu,2.45,3.0,2.875,2.75,3.0,2.5,0.0,1.775,2.1,0.0,2.025,1.825,2.0,1.875,1.975,2.0,1.85,2.0
+8181644,108,Brazil Paulista Cup,1721757600,23/07/2024,15:00,Suzano SP,Oeste,3.5,3.6,1.833,3.5,3.6,1.833,,,,,,,,,,,,
+8205666,363,Europe Friendlies,1721816100,24/07/2024,07:15,Cerezo Osaka,Borussia Dortmund,,,,,,,,,,,,,,,,,,
+8229714,435,Brazil Copa Rio,1721844000,24/07/2024,15:00,Duque de Caxias FC,Marica RJ,,,,,,,,,,,,,,,,,,
+8229716,435,Brazil Copa Rio,1721844000,24/07/2024,15:00,Paduano EC,Petropolis,,,,,,,,,,,,,,,,,,
+8229718,435,Brazil Copa Rio,1721844000,24/07/2024,15:00,Friburguense,America RJ,,,,,,,,,,,,,,,,,,
+8229720,435,Brazil Copa Rio,1721844000,24/07/2024,15:00,Serrano,Artsul Futebol Clube,,,,,,,,,,,,,,,,,,
+8229722,435,Brazil Copa Rio,1721844000,24/07/2024,15:00,SE Belford Roxo,Cabofriense,,,,,,,,,,,,,,,,,,
+8231851,435,Brazil Copa Rio,1721844000,24/07/2024,15:00,Sao Cristovao RJ,Olaria AC,,,,,,,,,,,,,,,,,,
+8231853,435,Brazil Copa Rio,1721844000,24/07/2024,15:00,Zinzane FC,Americano RJ,,,,,,,,,,,,,,,,,,
+8243022,1764,UK Friendlies,1721759400,23/07/2024,15:30,Southport,Oldham,3.7,4.1,1.666,3.7,4.1,1.666,,,,,,,,,,,,
+8244778,1764,UK Friendlies,1721760300,23/07/2024,15:45,Radcliffe FC,Halifax,3.25,4.0,1.8,3.25,4.0,1.8,,,,,,,,,,,,
+8251359,1764,UK Friendlies,1721760300,23/07/2024,15:45,Worksop,Pontefract Collieries,1.5,4.5,4.5,1.5,4.5,4.5,,,,,,,,,,,,
+8253155,1764,UK Friendlies,1721760300,23/07/2024,15:45,Tonbridge Angels,Ebbsfleet United,2.7,3.75,2.1,2.7,3.75,2.1,,,,,,,,,,,,
+8253158,1764,UK Friendlies,1721760300,23/07/2024,15:45,Met Police,Hampton  Richmond,5.5,4.5,1.4,5.5,4.5,1.4,,,,,,,,,,,,
+8255097,13926,Club Friendly List,1721933100,25/07/2024,15:45,Aveley,Lewes,,,,,,,,,,,,,,,,,,
+8255433,363,Europe Friendlies,1721760300,23/07/2024,15:45,Folkestone Invicta,Deal Town,,,,,,,,,,,,,,,,,,
+8255438,1764,UK Friendlies,1721760300,23/07/2024,15:45,Dulwich,AFC Hornchurch,2.875,4.2,1.909,2.875,4.2,1.909,,,,,,,,,,,,
+8255444,13926,Club Friendly List,1721933100,25/07/2024,15:45,Canvey Island,Southend,,,,,,,,,,,,,,,,,,
+8255772,1764,UK Friendlies,1721760300,23/07/2024,15:45,Dartford,Gillingham,5.0,4.5,1.444,5.0,4.5,1.444,,,,,,,,,,,,
+8255976,13926,Club Friendly List,1721933100,25/07/2024,15:45,Aldershot,Chelsea XI,,,,,,,,,,,,,,,,,,
+8256586,363,Europe Friendlies,1721757600,23/07/2024,15:00,Bottesford,Scunthorpe,,,,,,,,,,,,,,,,,,
+8257062,363,Europe Friendlies,1721759400,23/07/2024,15:30,Gainsborough,Barnsley,,,,,,,,,,,,,,,,,,
+8257063,13926,Club Friendly List,1721760300,23/07/2024,15:45,Moneyfields,Aldershot,,,,,,,,,,,,,,,,,,
+8257693,363,Europe Friendlies,1721760300,23/07/2024,15:45,VCD Athletic,Sheppey Utd,,,,,,,,,,,,,,,,,,
+8258521,363,Europe Friendlies,1721759400,23/07/2024,15:30,Boreham Wood,Brentford XI,,,,,,,,,,,,,,,,,,
+8258528,363,Europe Friendlies,1721760300,23/07/2024,15:45,Erith Town,Bromley,,,,,,,,,,,,,,,,,,
+8258529,363,Europe Friendlies,1721933100,25/07/2024,15:45,Sittingbourne,Bowers Pitsea,,,,,,,,,,,,,,,,,,
+8259864,363,Europe Friendlies,1721760300,23/07/2024,15:45,Liversedge,Scarborough Athletic,,,,,,,,,,,,,,,,,,
+8263382,363,Europe Friendlies,1721815200,24/07/2024,07:00,Kashima Antlers,Brighton,,,,,,,,,,,,,,,,,,
+8264417,56,Estonia Esiliiga,1721750400,23/07/2024,13:00,FC Flora Tallinn II,JK Tallinna Kalev II,1.25,6.0,7.0,1.25,6.0,7.0,,,,,,,,,,,,
+8271016,1764,UK Friendlies,1721757600,23/07/2024,15:00,Harrogate Town,Sheff Utd,6.0,4.75,1.4,6.0,4.75,1.4,,,,,,,,,,,,
+8271037,363,Europe Friendlies,1721760300,23/07/2024,15:45,Stafford Rangers,Sutton Coldfield,,,,,,,,,,,,,,,,,,
+8271042,363,Europe Friendlies,1721759400,23/07/2024,15:30,Hebburn Town,Bishop Auckland,,,,,,,,,,,,,,,,,,
+8271051,1764,UK Friendlies,1721760300,23/07/2024,15:45,Trafford,FC United of Manchester,4.0,4.333,1.571,4.0,4.333,1.571,,,,,,,,,,,,
+8271054,363,Europe Friendlies,1721760300,23/07/2024,15:45,Stockton Town,Spennymoor Town,,,,,,,,,,,,,,,,,,
+8275595,2175,CONCACAF U20 Championship,1721689560,22/07/2024,20:06,Jamaica U20,Costa Rica U20,4.75,4.0,1.533,5.0,4.1,1.533,1.0,2.025,1.775,1.0,1.925,1.875,3.0,1.85,1.95,3.0,1.975,1.825
+8275598,2175,CONCACAF U20 Championship,1721775960,23/07/2024,20:06,Canada U20,Dominican Republic U20,,,,,,,,,,,,,,,,,,
+8275605,2175,CONCACAF U20 Championship,1721862360,24/07/2024,20:06,Haiti U20,Panama U20,,,,,,,,,,,,,,,,,,
+8275676,2175,CONCACAF U20 Championship,1721700360,22/07/2024,23:06,Cuba U20,USA U20,17.0,9.0,1.083,23.0,11.0,1.071,3.0,1.825,1.975,3.25,1.85,1.95,3.75,1.85,1.95,4.25,1.95,1.85
+8275677,2175,CONCACAF U20 Championship,1721948760,25/07/2024,20:06,Cuba U20,Jamaica U20,,,,,,,,,,,,,,,,,,
+8275679,2175,CONCACAF U20 Championship,1721786760,23/07/2024,23:06,El Salvador U20,Honduras U20,,,,,,,,,,,,,,,,,,
+8275683,2175,CONCACAF U20 Championship,1721873160,24/07/2024,23:06,Guatemala U20,Mexico U20,,,,,,,,,,,,,,,,,,
+8279619,363,Europe Friendlies,1721846700,24/07/2024,15:45,Warrington Town,Salford City,,,,,,,,,,,,,,,,,,
+8279636,363,Europe Friendlies,1721933100,25/07/2024,15:45,Stourbridge,Hereford FC,,,,,,,,,,,,,,,,,,
+8279945,363,Europe Friendlies,1721760300,23/07/2024,15:45,Grays Athletic,Tilbury,,,,,,,,,,,,,,,,,,
+8281325,363,Europe Friendlies,1721845800,24/07/2024,15:30,Maidenhead Utd,West Ham U23,,,,,,,,,,,,,,,,,,
+8283892,363,Europe Friendlies,1721760300,23/07/2024,15:45,Arlesey Town,Enfield 1893,,,,,,,,,,,,,,,,,,
+8284019,1764,UK Friendlies,1721760300,23/07/2024,15:45,Needham Market,Brightlingsea Regent,1.363,4.75,6.0,1.363,4.75,6.0,,,,,,,,,,,,
+8284079,445,Copa Sudamericana,1721867400,24/07/2024,21:30,Bragantino,Barcelona Guayaquil,1.615,3.9,5.25,1.571,4.1,5.75,-0.75,1.8,2.05,-1.0,2.0,1.85,2.5,1.975,1.875,2.5,1.975,1.875
+8284976,1764,UK Friendlies,1721760300,23/07/2024,15:45,Canvey Island,Aveley,3.0,4.2,1.85,3.0,4.2,1.85,,,,,,,,,,,,
+8287141,363,Europe Friendlies,1721760300,23/07/2024,15:45,Barnoldswick Town,Bamber Bridge,,,,,,,,,,,,,,,,,,
+8287286,363,Europe Friendlies,1721760300,23/07/2024,15:45,Billericay Town,Witham Town,,,,,,,,,,,,,,,,,,
+8287289,363,Europe Friendlies,1721846700,24/07/2024,15:45,Havant and W,Farnborough,,,,,,,,,,,,,,,,,,
+8287555,363,Europe Friendlies,1721932200,25/07/2024,15:30,Crawley Down,Eastbourne Borough,,,,,,,,,,,,,,,,,,
+8287556,363,Europe Friendlies,1721846700,24/07/2024,15:45,Chelmsford,Milton Keynes Dons,,,,,,,,,,,,,,,,,,
+8288884,363,Europe Friendlies,1721760300,23/07/2024,15:45,Horndean,Gosport Borough,,,,,,,,,,,,,,,,,,
+8293330,363,Europe Friendlies,1721760300,23/07/2024,15:45,Melksham Town,Bath City,,,,,,,,,,,,,,,,,,
+8293516,363,Europe Friendlies,1721739600,23/07/2024,10:00,Willem II,Roda JC,1.615,4.0,4.0,1.615,4.0,4.0,,,,,,,,,,,,
+8294517,1764,UK Friendlies,1721759400,23/07/2024,15:30,Chippenham Town,Swindon Supermarine,1.571,4.0,4.333,1.571,4.0,4.333,,,,,,,,,,,,
+8294546,363,Europe Friendlies,1721757600,23/07/2024,15:00,Weymouth,Eastleigh,,,,,,,,,,,,,,,,,,
+8296191,363,Europe Friendlies,1721759400,23/07/2024,15:30,Didcot Town,Hemel Hempstead,,,,,,,,,,,,,,,,,,
+8296576,1260,Scotland League Cup,1721760300,23/07/2024,15:45,East Kilbride,Queen of South,4.75,4.0,1.571,3.9,4.0,1.65,0.75,1.925,1.925,0.75,1.975,1.875,3.0,1.925,1.925,3.0,1.825,2.025
+8296584,1260,Scotland League Cup,1721760300,23/07/2024,15:45,Kelty Hearts,Peterhead,1.571,4.5,4.2,1.6,4.5,4.1,-1.0,1.925,1.925,-0.75,1.825,2.025,3.0,1.925,1.925,3.0,2.0,1.85
+8296589,1260,Scotland League Cup,1721760300,23/07/2024,15:45,Dundee,Annan Athletic,1.222,6.0,9.0,1.166,7.0,9.5,-1.75,2.025,1.825,-2.0,1.925,1.925,3.0,1.925,1.925,3.25,1.925,1.925
+8296592,1260,Scotland League Cup,1721760300,23/07/2024,15:45,Cove Rangers,Livingston,4.333,4.5,1.55,4.75,4.75,1.48,1.0,1.925,1.925,1.0,2.025,1.825,3.0,1.925,1.925,3.0,1.85,2.0
+8296596,1260,Scotland League Cup,1721760300,23/07/2024,15:45,Alloa,St Johnstone,5.0,5.0,1.444,4.333,4.5,1.533,1.0,1.925,1.925,1.0,1.925,1.925,3.0,1.925,1.925,3.0,2.05,1.8
+8296603,1260,Scotland League Cup,1721760300,23/07/2024,15:45,Montrose,FC Edinburgh,1.166,6.5,12.0,1.09,9.0,23.0,-2.5,1.925,1.925,-2.5,1.85,2.0,3.5,1.925,1.925,3.5,1.85,2.0
+8296608,1260,Scotland League Cup,1721760300,23/07/2024,15:45,Hamilton,Ross County,3.3,3.4,2.0,3.5,3.4,1.95,0.5,1.85,2.0,0.5,1.85,2.0,2.75,1.925,1.925,2.75,1.925,1.925
+8296609,1260,Scotland League Cup,1721760300,23/07/2024,15:45,Stirling,Stranraer,1.4,4.5,6.5,1.5,3.8,6.0,-1.25,1.9,1.95,-1.0,1.9,1.95,3.0,1.95,1.9,2.75,1.975,1.875
+8296685,1260,Scotland League Cup,1721760300,23/07/2024,15:45,Stenhousemuir,Ayr,4.5,3.7,1.666,4.75,3.75,1.615,0.75,1.925,1.925,0.75,2.0,1.85,2.5,1.925,1.925,2.5,1.85,2.0
+8296689,1260,Scotland League Cup,1721760300,23/07/2024,15:45,Queens Park,Elgin,1.25,5.25,9.5,1.2,6.0,9.5,-1.5,1.925,1.925,-2.0,2.0,1.85,3.0,1.925,1.925,3.5,1.95,1.9
+8296697,1260,Scotland League Cup,1721760300,23/07/2024,15:45,Spartans,Forfar,1.75,3.5,4.2,1.75,3.4,4.2,-0.75,2.0,1.85,-0.5,1.8,2.05,2.25,1.85,2.0,2.25,1.85,2.0
+8296700,1260,Scotland League Cup,1721760300,23/07/2024,15:45,East Fife,Brechin,1.571,4.0,4.75,1.45,4.333,5.75,-1.0,1.925,1.925,-1.25,2.05,1.8,3.0,1.925,1.925,2.75,1.925,1.925
+8296703,1260,Scotland League Cup,1721760300,23/07/2024,15:45,Partick,Clyde,1.333,5.0,7.0,1.333,5.25,7.0,-1.25,1.925,1.925,-1.5,1.925,1.925,3.0,1.925,1.925,3.25,2.0,1.85
+8297338,1260,Scotland League Cup,1721760300,23/07/2024,15:45,Inverness CT,Arbroath,1.833,4.5,3.1,1.615,4.333,3.9,-0.5,1.925,1.925,-0.75,1.8,2.05,3.0,1.925,1.925,2.75,1.825,2.025
+8297801,13926,Club Friendly List,1721759400,23/07/2024,15:30,Woking,Binfield,,,,,,,,,,,,,,,,,,
+8298823,1764,UK Friendlies,1721760300,23/07/2024,15:45,Tamworth,Kidderminster,2.15,3.6,2.7,2.15,3.6,2.7,,,,,,,,,,,,
+8299343,1764,UK Friendlies,1721759400,23/07/2024,15:30,Wealdstone,Crawley Town,3.8,3.75,1.727,3.8,3.75,1.727,,,,,,,,,,,,
+8299474,363,Europe Friendlies,1721760300,23/07/2024,15:45,Herne Bay,Tunbridge Wells,,,,,,,,,,,,,,,,,,
+8304717,363,Europe Friendlies,1721845800,24/07/2024,15:30,1874 Northwich,Salford City,,,,,,,,,,,,,,,,,,
+8304743,363,Europe Friendlies,1721760300,23/07/2024,15:45,Corinthian Casuals,Epsom  Ewell,,,,,,,,,,,,,,,,,,
+8306246,363,Europe Friendlies,1721840400,24/07/2024,14:00,Valencia,CD Alaves,,,,,,,,,,,,,,,,,,
+8306657,363,Europe Friendlies,1721933100,25/07/2024,15:45,Hinckley LR,Kettering,,,,,,,,,,,,,,,,,,
+8306884,363,Europe Friendlies,1721760300,23/07/2024,15:45,Basford Utd,Grantham,,,,,,,,,,,,,,,,,,
+8307090,1260,Scotland League Cup,1721760300,23/07/2024,15:45,Aberdeen,Airdrieonians,1.27,5.0,9.0,1.38,4.5,7.0,-1.25,1.925,1.925,-1.25,1.85,2.0,3.25,2.05,1.8,3.25,1.975,1.875
+8307091,1260,Scotland League Cup,1721761200,23/07/2024,16:00,Buckie Thistle,Dundee Utd,26.0,12.0,1.055,34.0,12.0,1.05,3.0,1.95,1.9,3.0,2.025,1.825,4.0,2.0,1.85,4.0,2.025,1.825
+8307317,363,Europe Friendlies,1721759400,23/07/2024,15:30,Morpeth Town,Ashington,,,,,,,,,,,,,,,,,,
+8307594,1764,UK Friendlies,1721760300,23/07/2024,15:45,Macclesfield,Rochdale,2.75,3.75,2.05,2.75,3.75,2.05,,,,,,,,,,,,
+8307656,445,Copa Sudamericana,1721944800,25/07/2024,19:00,Cuiaba,Palestino,1.615,3.7,6.0,1.65,3.6,6.0,-0.75,1.8,2.05,-0.75,1.825,2.025,2.25,1.85,2.0,2.25,1.925,1.925
+8307803,363,Europe Friendlies,1721846700,24/07/2024,15:45,Stowmarket Town,Clacton,,,,,,,,,,,,,,,,,,
+8307804,363,Europe Friendlies,1721757600,23/07/2024,15:00,Reading City FC,Tadley Calleva,,,,,,,,,,,,,,,,,,
+8308098,363,Europe Friendlies,1721759400,23/07/2024,15:30,Guisborough Town,Whitby,,,,,,,,,,,,,,,,,,
+8308101,363,Europe Friendlies,1721750400,23/07/2024,13:00,FC RapperswilJona,Aarau,,,,,,,,,,,,,,,,,,
+8309956,98,Norway Division 1,1721754000,23/07/2024,14:00,Raufoss,Levanger,2.6,3.4,2.5,2.7,3.5,2.4,0.0,1.975,1.875,0.0,2.05,1.8,2.75,2.0,1.85,2.75,1.9,1.95
+8310097,363,Europe Friendlies,1721846700,24/07/2024,15:45,Cheadle Town,Radcliffe FC,,,,,,,,,,,,,,,,,,
+8310608,1764,UK Friendlies,1721759400,23/07/2024,15:30,Curzon Ashton,AFC Fylde,2.6,3.6,2.2,2.6,3.6,2.2,,,,,,,,,,,,
+8312792,363,Europe Friendlies,1721845800,24/07/2024,15:30,Chesterfield,Derby,,,,,,,,,,,,,,,,,,
+8316603,1764,UK Friendlies,1721760300,23/07/2024,15:45,Shepshed Dynamo,Mickleover Sports,4.5,4.333,1.5,4.5,4.333,1.5,,,,,,,,,,,,
+8317151,363,Europe Friendlies,1721759400,23/07/2024,15:30,Corby,Spalding United,,,,,,,,,,,,,,,,,,
+8318156,363,Europe Friendlies,1721846700,24/07/2024,15:45,Westfields,Swansea U23,,,,,,,,,,,,,,,,,,
+8323653,363,Europe Friendlies,1721760300,23/07/2024,15:45,Steeton AFC,Squires Gate,,,,,,,,,,,,,,,,,,
+8324501,445,Copa Sudamericana,1721772000,23/07/2024,19:00,Racing Club de Montevideo,Huachipato,2.25,3.2,3.25,2.3,3.4,3.1,-0.25,1.95,1.9,-0.25,1.975,1.875,2.25,1.95,1.9,2.25,1.95,1.9
+8324502,445,Copa Sudamericana,1721781000,23/07/2024,21:30,Internacional,Rosario Central,1.533,4.0,6.0,1.533,3.9,7.0,-1.0,1.975,1.875,-1.0,2.025,1.825,2.5,2.0,1.85,2.25,1.9,1.95
+8324504,445,Copa Sudamericana,1721867400,24/07/2024,21:30,Boca Juniors,Independiente del Valle,1.95,3.4,4.0,1.7,3.6,5.25,-0.25,1.7,2.2,-0.75,1.925,1.925,2.25,1.9,1.95,2.25,1.95,1.9
+8324505,445,Copa Sudamericana,1721858400,24/07/2024,19:00,Universidad Catolica del Ecuador,Libertad Asuncion,1.909,3.25,4.5,1.533,4.0,7.0,-0.5,1.925,1.925,-1.0,1.875,1.975,2.25,1.925,1.925,2.75,2.025,1.825
+8324674,363,Europe Friendlies,1721759400,23/07/2024,15:30,Brigg Town,Grimsby Borough,,,,,,,,,,,,,,,,,,
+8328785,363,Europe Friendlies,1721933100,25/07/2024,15:45,Sporting Khalsa,Alvechurch,,,,,,,,,,,,,,,,,,
+8328980,22179,Australia FFA Cup Qualifying,1721727000,23/07/2024,06:30,Brisbane Roar,Perth Glory,,,,,,,,,,,,,,,,,,
+8328981,22179,Australia FFA Cup Qualifying,1721813100,24/07/2024,06:25,Newcastle Jets,Western United FC,2.8,3.6,2.2,2.9,3.6,2.15,0.25,1.9,1.9,0.25,1.9,1.9,3.0,1.925,1.875,3.0,1.9,1.9
+8329226,363,Europe Friendlies,1721759400,23/07/2024,15:30,North Shields,Dunston UTS,,,,,,,,,,,,,,,,,,
+8329228,363,Europe Friendlies,1721829600,24/07/2024,11:00,Cologne,Swansea,,,,,,,,,,,,,,,,,,
+8333098,363,Europe Friendlies,1721760300,23/07/2024,15:45,Hyde Utd,Mossley,,,,,,,,,,,,,,,,,,
+8333477,363,Europe Friendlies,1721829600,24/07/2024,11:00,Verl,FC Emmen,,,,,,,,,,,,,,,,,,
+8349493,1764,UK Friendlies,1721759400,23/07/2024,15:30,Crewe,Stoke,3.2,4.0,1.8,3.2,4.0,1.8,,,,,,,,,,,,
+8352790,363,Europe Friendlies,1721760300,23/07/2024,15:45,Canterbury City,Snodland Town FC,,,,,,,,,,,,,,,,,,
+8353290,30612,Bulgaria Second League,1721748600,23/07/2024,12:30,Yantra Gabrovo,Etar 1924 Veliko Tarnovo,2.75,3.2,2.3,2.75,3.2,2.3,,,,,,,,,,,,
+8354259,363,Europe Friendlies,1721760300,23/07/2024,15:45,Clevedon,Taunton Town,,,,,,,,,,,,,,,,,,
+8355231,363,Europe Friendlies,1721844000,24/07/2024,15:00,PSV,FC Eindhoven,,,,,,,,,,,,,,,,,,
+8357491,363,Europe Friendlies,1721838600,24/07/2024,13:30,Schalke,FC Twente,,,,,,,,,,,,,,,,,,
+8359181,30523,Brazil Campeonato Carioca A2,1721843100,24/07/2024,14:45,Resende RJ,Audax Rio,,,,,,,,,,,,,,,,,,
+8360874,363,Europe Friendlies,1721846700,24/07/2024,15:45,St Andrews Utd,Dunfermline,,,,,,,,,,,,,,,,,,
+8362366,363,Europe Friendlies,1721934000,25/07/2024,16:00,Benfica,Brentford,,,,,,,,,,,,,,,,,,
+8365452,363,Europe Friendlies,1721757600,23/07/2024,15:00,IJsselmeervogels,Telstar,3.75,4.333,1.615,3.75,4.333,1.615,,,,,,,,,,,,
+8367390,363,Europe Friendlies,1721844000,24/07/2024,15:00,Hibernian,Watford,,,,,,,,,,,,,,,,,,
+8367670,5720,UEFA Europa League Qualifying,1721926800,25/07/2024,14:00,Molde,Silkeborg IF,1.571,4.0,4.75,1.5,4.333,5.0,-1.0,2.0,1.8,-1.0,1.825,1.975,2.75,1.85,1.95,2.75,1.85,1.95
+8367838,363,Europe Friendlies,1721842200,24/07/2024,14:30,Racing Santander,Athletic Bilbao,,,,,,,,,,,,,,,,,,
+8367863,5708,UEFA Champions League Qualifying,1721757600,23/07/2024,15:00,Dynamo Kiev,Partizan Belgrade,1.95,3.3,3.6,1.6,3.8,4.75,-0.5,1.85,2.0,-0.75,1.8,2.05,2.5,1.95,1.9,2.5,1.875,1.975
+8367871,5720,UEFA Europa League Qualifying,1721932200,25/07/2024,15:30,Ajax,Vojvodina,1.25,5.5,9.0,1.181,6.5,10.0,-1.75,1.8,2.0,-2.0,1.875,1.925,3.0,1.8,2.0,3.25,1.875,1.925
+8368006,33931,UEFA Conference League Qualifying,1721925900,25/07/2024,13:45,Zimbru Chisinau,Ararat Armenia,2.2,3.2,2.875,2.4,3.2,2.625,,,,,,,,,,,,
+8368089,33931,UEFA Conference League Qualifying,1721934000,25/07/2024,16:00,Hajduk Split,HB Torshavn,1.1,8.5,15.0,1.142,7.0,15.0,-2.25,1.85,1.95,-2.25,1.875,1.925,3.5,1.9,1.9,3.5,1.9,1.9
+8368405,363,Europe Friendlies,1721840400,24/07/2024,14:00,CD Calahorra,Real Zaragoza,,,,,,,,,,,,,,,,,,
+8368453,33931,UEFA Conference League Qualifying,1721926800,25/07/2024,14:00,Djurgarden,Progres Niedercorn,1.285,5.5,7.5,1.2,6.5,9.0,-1.5,1.85,1.95,-1.75,1.8,2.0,3.0,1.9,1.9,3.0,1.9,1.9
+8368464,33931,UEFA Conference League Qualifying,1721836800,24/07/2024,13:00,Riga FC,Slask Wroclaw,2.8,3.3,2.3,2.375,3.4,2.625,0.25,1.775,2.025,0.0,1.775,2.025,2.25,1.95,1.85,2.25,1.85,1.95
+8368632,33931,UEFA Conference League Qualifying,1721930400,25/07/2024,15:00,Paksi,AEK Larnaca,3.0,3.25,2.2,3.0,3.25,2.2,0.25,1.825,1.975,0.25,1.825,1.975,2.5,1.8,2.0,2.5,1.85,1.95
+8368633,33931,UEFA Conference League Qualifying,1721923200,25/07/2024,13:00,Mlada Boleslav,FK Transinvest,1.25,5.0,9.0,1.25,5.0,9.0,,,,,,,,,,,,
+8368634,33931,UEFA Conference League Qualifying,1721923200,25/07/2024,13:00,FC Ilves,FK Austria Vienna,3.3,3.4,2.0,3.9,3.6,1.8,0.5,1.85,1.95,0.5,2.0,1.8,2.75,1.95,1.85,3.0,2.025,1.775
+8368636,5720,UEFA Europa League Qualifying,1721932200,25/07/2024,15:30,Kilmarnock,Cercle Brugge,3.5,3.4,1.95,4.2,3.6,1.75,0.75,1.8,2.0,0.75,1.8,2.0,2.75,1.95,1.85,2.75,1.95,1.85
+8368712,33931,UEFA Conference League Qualifying,1721933100,25/07/2024,15:45,St Patricks,FC Vaduz,2.55,3.1,2.625,2.55,3.1,2.625,0.0,1.85,1.95,0.0,1.85,1.95,2.25,1.9,1.9,2.5,2.025,1.775
+8369019,363,Europe Friendlies,1721845800,24/07/2024,15:30,Birmingham,Rangers,,,,,,,,,,,,,,,,,,
+8369020,33931,UEFA Conference League Qualifying,1721928600,25/07/2024,14:30,CFR Cluj,Neman Grodno,1.363,4.0,9.0,1.27,4.75,11.0,-1.25,1.8,2.0,-1.5,1.825,1.975,2.75,1.925,1.875,2.75,1.975,1.825
+8370680,33931,UEFA Conference League Qualifying,1721930400,25/07/2024,15:00,FK Radnicki 1923,FK Mornar Bar,1.55,3.8,5.25,1.42,4.1,6.5,-1.0,1.925,1.875,-1.25,1.95,1.85,2.5,1.9,1.9,2.5,1.9,1.9
+8370681,33931,UEFA Conference League Qualifying,1721926800,25/07/2024,14:00,Hapoel Beer Sheva,Cherno More Varna,2.1,3.25,3.25,2.15,3.2,3.2,-0.25,1.9,1.9,-0.25,1.875,1.925,2.25,1.775,2.025,2.25,1.85,1.95
+8370682,33931,UEFA Conference League Qualifying,1721925000,25/07/2024,13:30,Go Ahead Eagles,SK Brann,1.95,3.5,3.25,1.95,3.5,3.25,,,,,,,,,,,,
+8370988,33931,UEFA Conference League Qualifying,1721923200,25/07/2024,13:00,FK Sumqayit,MOL Fehervar FC,3.5,3.3,1.909,3.5,3.3,1.909,,,,,,,,,,,,
+8371159,363,Europe Friendlies,1721840400,24/07/2024,14:00,VVV,AlRayyan SC,,,,,,,,,,,,,,,,,,
+8375015,223,Costa Rica Primera Division,1721786400,23/07/2024,23:00,Herediano,Puntarenas,1.333,5.0,7.5,1.333,5.0,7.5,-1.5,1.975,1.825,-1.5,1.975,1.825,2.75,1.85,1.95,2.75,1.825,1.975
+8375016,223,Costa Rica Primera Division,1721865600,24/07/2024,21:00,Municipal Liberia,Alajuelense,3.6,3.25,1.95,3.4,3.25,2.05,0.5,1.8,2.0,0.25,2.025,1.775,2.75,1.95,1.85,2.75,1.95,1.85
+8375358,223,Costa Rica Primera Division,1721775600,23/07/2024,20:00,Santa Ana,Sporting San Jose,2.5,3.2,2.5,2.4,3.4,2.5,0.0,1.8,2.0,0.0,1.825,1.975,2.5,1.925,1.875,2.5,1.95,1.85
+8375359,223,Costa Rica Primera Division,1721865600,24/07/2024,21:00,AD San Carlos,Cartagines,,,,,,,,,,,,,,,,,,
+8375655,74,Switzerland Super League,1721845800,24/07/2024,15:30,Servette,Young Boys,2.1,3.8,3.1,2.1,3.8,3.1,-0.25,1.85,2.0,-0.25,1.875,1.975,3.25,2.025,1.825,3.25,2.05,1.8
+8375863,5708,UEFA Champions League Qualifying,1721759400,23/07/2024,15:30,Lugano,Fenerbahce,3.2,3.25,2.1,4.1,3.7,1.727,0.25,2.0,1.85,0.75,1.85,2.0,2.5,2.05,1.8,2.75,2.0,1.85
+8375878,33931,UEFA Conference League Qualifying,1721927700,25/07/2024,14:15,Maccabi Haifa,Sabah,1.727,3.4,4.5,1.55,3.6,5.75,-0.75,1.9,1.9,-1.0,2.0,1.8,2.5,1.825,1.975,2.5,1.85,1.95
+8376009,363,Europe Friendlies,1721759400,23/07/2024,15:30,Bideford,Plymouth Parkway,,,,,,,,,,,,,,,,,,
+8377233,363,Europe Friendlies,1721874600,24/07/2024,23:30,Chelsea,Wrexham,,,,,,,,,,,,,,,,,,
+8377404,223,Costa Rica Primera Division,1721872800,24/07/2024,23:00,Deportivo Saprissa,AD Guanacasteca,1.222,6.0,9.5,1.222,6.0,9.5,-1.75,1.85,1.95,-1.75,1.85,1.95,3.25,2.0,1.8,3.25,2.0,1.8
+8377508,363,Europe Friendlies,1721760300,23/07/2024,15:45,Great Wakering Rovers,Brentwood Town,,,,,,,,,,,,,,,,,,
+8380900,33931,UEFA Conference League Qualifying,1721926800,25/07/2024,14:00,Dnipro1,Puskas Academy,,,,,,,,,,,,,,,,,,
+8380941,1764,UK Friendlies,1721760300,23/07/2024,15:45,Aldershot,Bristol City,5.5,5.0,1.38,5.5,4.5,1.4,,,,,,,,,,,,
+8381092,1764,UK Friendlies,1721759400,23/07/2024,15:30,Chorley,Bolton,5.75,4.5,1.4,5.75,4.5,1.4,,,,,,,,,,,,
+8381206,1764,UK Friendlies,1721732400,23/07/2024,08:00,Bristol City,Newport County,1.615,4.0,4.0,1.666,3.9,3.8,-0.75,1.9,1.9,-0.75,1.9,1.9,3.0,1.95,1.85,3.0,1.95,1.85
+8382196,33931,UEFA Conference League Qualifying,1721926800,25/07/2024,14:00,Olimpija Ljubljana,Polissya Zhytomyr,1.909,3.4,3.6,1.8,3.5,3.9,-0.5,1.9,1.9,-0.5,1.825,1.975,2.5,1.975,1.825,2.5,1.975,1.825
+8384490,363,Europe Friendlies,1721836800,24/07/2024,13:00,Caen,Le Mans,,,,,,,,,,,,,,,,,,
+8384997,363,Europe Friendlies,1721842200,24/07/2024,14:30,FC Suderelbe,FC Teutonia 05,,,,,,,,,,,,,,,,,,
+8385644,363,Europe Friendlies,1721829600,24/07/2024,11:00,Oxford Utd,Exeter,,,,,,,,,,,,,,,,,,
+8385734,363,Europe Friendlies,1721760300,23/07/2024,15:45,Knaresborough Town,Garforth Town,,,,,,,,,,,,,,,,,,
+8386821,6298,Mexico Liga MX Femenil,1721696400,22/07/2024,22:00,Tigres UANL Women,Puebla Women,1.071,9.0,21.0,1.055,12.0,29.0,-2.5,1.85,1.95,-3.0,1.95,1.85,3.5,2.0,1.8,3.75,1.9,1.9
+8386822,6298,Mexico Liga MX Femenil,1721703960,23/07/2024,00:06,Pachuca Women,Queretaro Women,1.181,6.5,9.0,1.222,6.0,7.5,-1.75,2.0,1.8,-1.75,1.85,1.95,3.25,1.825,1.975,3.25,1.825,1.975
+8386823,6298,Mexico Liga MX Femenil,1721782800,23/07/2024,22:00,Monterrey Women,Atlas Women,1.142,6.5,17.0,1.142,6.5,17.0,,,,,,,,,,,,
+8386824,6298,Mexico Liga MX Femenil,1721876760,25/07/2024,00:06,Tijuana Women,Club Necaxa Women,,,,,,,,,,,,,,,,,,
+8387654,1764,UK Friendlies,1721759400,23/07/2024,15:30,Woking,Reading,3.8,3.75,1.727,3.8,3.75,1.727,,,,,,,,,,,,
+8387860,363,Europe Friendlies,1721760300,23/07/2024,15:45,Fareham Town,New Milton,,,,,,,,,,,,,,,,,,
+8387918,1764,UK Friendlies,1721760300,23/07/2024,15:45,Doncaster,Hull,3.5,4.0,1.727,3.5,4.0,1.727,,,,,,,,,,,,
+8387948,363,Europe Friendlies,1721760300,23/07/2024,15:45,Newhaven,Westfield,,,,,,,,,,,,,,,,,,
+8395452,68,Germany Regionalliga Bayern,1721925000,25/07/2024,13:30,Nurnberg II,SpVgg Bayreuth,,,,,,,,,,,,,,,,,,
+8398645,5720,UEFA Europa League Qualifying,1721935800,25/07/2024,16:30,Braga,Maccabi Petach Tikva,1.3,5.0,8.0,1.166,7.0,11.0,-1.5,1.85,1.95,-2.0,1.95,1.85,2.75,1.9,1.9,3.0,1.9,1.9
+8401966,363,Europe Friendlies,1721754000,23/07/2024,14:00,SV Wildon,SK Werndorf,,,,,,,,,,,,,,,,,,
+8402790,4403,Brazil Campeonato Mineiro 2,1721844000,24/07/2024,15:00,Betim FC,URT MG,,,,,,,,,,,,,,,,,,
+8402815,4403,Brazil Campeonato Mineiro 2,1721862000,24/07/2024,20:00,Mamore,North Esporte Clube,,,,,,,,,,,,,,,,,,
+8403213,37534,Olympics 2024 Soccer  Men,1721826000,24/07/2024,10:00,Uzbekistan Olympic,Spain Olympic,8.0,6.0,1.25,8.0,6.0,1.25,1.5,2.0,1.85,1.75,1.85,2.0,3.0,1.95,1.9,3.0,1.925,1.925
+8403214,37534,Olympics 2024 Soccer  Men,1721826000,24/07/2024,10:00,Argentina Olympic,Morocco Olympic,1.5,4.0,5.0,1.6,3.9,4.75,-1.0,1.925,1.925,-0.75,1.8,2.05,2.5,2.0,1.85,2.5,2.025,1.825
+8403215,37534,Olympics 2024 Soccer  Men,1721833200,24/07/2024,12:00,Egypt Olympic,Dominican Republic Olympic,1.1,9.0,13.0,1.222,5.5,10.0,-2.75,2.0,1.85,-1.75,1.85,2.0,3.75,2.0,1.85,3.25,1.85,2.0
+8403216,37534,Olympics 2024 Soccer  Men,1721833200,24/07/2024,12:00,Guinea Olympic,New Zealand Olympic,2.0,3.1,3.4,1.65,3.4,5.25,-0.25,1.8,2.05,-0.75,1.9,1.95,2.25,2.05,1.8,2.25,1.925,1.925
+8403217,37534,Olympics 2024 Soccer  Men,1721840400,24/07/2024,14:00,Japan Olympic,Paraguay Olympic,2.2,3.3,2.8,1.95,3.5,3.4,-0.25,2.05,1.8,-0.5,2.0,1.85,2.25,1.925,1.925,2.25,1.85,2.0
+8403218,37534,Olympics 2024 Soccer  Men,1721840400,24/07/2024,14:00,Iraq Olympic,Ukraine Olympic,3.2,3.1,2.1,4.333,3.4,1.7,0.25,2.05,1.8,0.5,2.125,1.75,2.25,2.05,1.8,2.25,1.975,1.875
+8403219,37534,Olympics 2024 Soccer  Men,1721847600,24/07/2024,16:00,Mali Olympic,Israel Olympic,2.2,3.1,3.0,2.25,3.1,2.9,-0.25,1.925,1.925,-0.25,2.025,1.825,2.25,2.05,1.8,2.25,1.975,1.875
+8403220,37534,Olympics 2024 Soccer  Men,1721847600,24/07/2024,16:00,France Olympic,USA Olympic,1.4,4.5,5.5,1.363,4.75,5.5,-1.25,2.0,1.85,-1.25,1.9,1.95,2.75,1.95,1.9,2.75,1.85,2.0
+8408624,21592,Peru Campeonato Nacional Women,1721923200,25/07/2024,13:00,Academia Deportiva Cantolao Women,Cesar Vallejo Women,,,,,,,,,,,,,,,,,,
+8408794,21592,Peru Campeonato Nacional Women,1721923200,25/07/2024,13:00,FC Killas Women,UNSAAC Women,,,,,,,,,,,,,,,,,,
+8408808,21592,Peru Campeonato Nacional Women,1721923200,25/07/2024,13:00,Biavo FC Women,Ayacucho FC Women,,,,,,,,,,,,,,,,,,
+8410864,363,Europe Friendlies,1721811600,24/07/2024,06:00,Bordeaux,Southampton,,,,,,,,,,,,,,,,,,
+8412591,246,Brazil Serie C,1721858400,24/07/2024,19:00,Aparecidense,Ypiranga,,,,,,,,,,,,,,,,,,
+8412646,363,Europe Friendlies,1721833200,24/07/2024,12:00,TSG Hoffenheim,Elversberg,,,,,,,,,,,,,,,,,,
+8413577,631,Elite Club Friendlies,1721760300,23/07/2024,15:45,Shrewsbury,Leicester,6.5,3.75,1.444,6.5,3.75,1.5,,,,,,,,,,,,
+8419092,155,Brazil Serie A,1721858400,24/07/2024,19:00,Criciuma,Fortaleza EC,2.4,3.4,2.75,2.5,3.4,2.8,0.0,1.79,2.11,0.0,1.85,2.05,2.25,2.04,1.86,2.25,2.03,1.87
+8428476,363,Europe Friendlies,1721760300,23/07/2024,15:45,Cobham,Farnham,,,,,,,,,,,,,,,,,,
+8428478,363,Europe Friendlies,1721759400,23/07/2024,15:30,Hartley Wintney,Bracknell Town,,,,,,,,,,,,,,,,,,
+8431520,173,Romania Liga I,1721674800,22/07/2024,16:00,Otelul Galati,Farul Constanta,2.7,3.1,2.625,2.7,3.1,2.625,-0.25,2.05,1.8,0.0,1.975,1.875,2.25,1.875,1.975,2.25,1.875,1.975
+8435061,363,Europe Friendlies,1721736000,23/07/2024,09:00,West Brom,Blackpool,,,,,,,,,,,,,,,,,,
+8436077,1764,UK Friendlies,1721760300,23/07/2024,15:45,Carrick Rangers,Bangor FC,1.5,4.5,4.5,1.5,4.5,4.5,,,,,,,,,,,,
+8437747,363,Europe Friendlies,1721760300,23/07/2024,15:45,Westbury Utd,Frome Town,,,,,,,,,,,,,,,,,,
+8438326,13926,Club Friendly List,1721759400,23/07/2024,15:30,Horsham,AFC Whyteleafe,,,,,,,,,,,,,,,,,,
+8439027,363,Europe Friendlies,1721836800,24/07/2024,13:00,Brest,Laval,,,,,,,,,,,,,,,,,,
+8439106,363,Europe Friendlies,1721836800,24/07/2024,13:00,Lyon,St Pauli,,,,,,,,,,,,,,,,,,
+8439752,1764,UK Friendlies,1721759400,23/07/2024,15:30,Alfreton Town,Rotherham,5.5,4.5,1.4,6.0,4.333,1.38,,,,,,,,,,,,
+8439754,363,Europe Friendlies,1721757600,23/07/2024,15:00,Boston Utd,Peterborough,,,,,,,,,,,,,,,,,,
+8439997,363,Europe Friendlies,1721838600,24/07/2024,13:30,AZ,Aris Salonika,,,,,,,,,,,,,,,,,,
+8440078,1764,UK Friendlies,1721759400,23/07/2024,15:30,Darlington 1883,York,2.8,3.6,2.1,2.8,3.6,2.1,,,,,,,,,,,,
+8440086,1764,UK Friendlies,1721760300,23/07/2024,15:45,Harborough Town,Brackley,3.8,4.333,1.615,3.8,4.333,1.615,,,,,,,,,,,,
+8440556,363,Europe Friendlies,1721845800,24/07/2024,15:30,Gateshead,Middlesbrough,,,,,,,,,,,,,,,,,,
+8441416,363,Europe Friendlies,1721760300,23/07/2024,15:45,Bootle,Warrington Rylands,,,,,,,,,,,,,,,,,,
+8441418,363,Europe Friendlies,1721759400,23/07/2024,15:30,Runcorn Linnets,Bolton U23,,,,,,,,,,,,,,,,,,
+8441476,363,Europe Friendlies,1721759400,23/07/2024,15:30,Evesham United,Redditch,,,,,,,,,,,,,,,,,,
+8442502,363,Europe Friendlies,1721842200,24/07/2024,14:30,Lecce,Galatasaray,,,,,,,,,,,,,,,,,,
+8442845,363,Europe Friendlies,1721928600,25/07/2024,14:30,FC Bulle,FC Portalban Gletterens,,,,,,,,,,,,,,,,,,
+8443352,363,Europe Friendlies,1721759400,23/07/2024,15:30,Ossett United,Hemsworth Miners Welfare,,,,,,,,,,,,,,,,,,
+8445587,363,Europe Friendlies,1721760300,23/07/2024,15:45,Chertsey Town,Chesham,,,,,,,,,,,,,,,,,,
+8446632,363,Europe Friendlies,1721760300,23/07/2024,15:45,Ramsbottom United,Northwich Victoria,,,,,,,,,,,,,,,,,,
+8447184,363,Europe Friendlies,1721829600,24/07/2024,11:00,Monza,ASD Alcione,,,,,,,,,,,,,,,,,,
+8447185,363,Europe Friendlies,1721835000,24/07/2024,12:30,Verona,Virtus Verona,,,,,,,,,,,,,,,,,,
+8454726,73,Germany Regionalliga North East,1721931600,25/07/2024,15:20,Chemnitzer,Hallescher FC,,,,,,,,,,,,,,,,,,
+8455281,363,Europe Friendlies,1721760300,23/07/2024,15:45,Bromsgrove,Birmingham U23,,,,,,,,,,,,,,,,,,
+8455749,363,Europe Friendlies,1721838600,24/07/2024,13:30,RottachEgern,Bayern Munich,,,,,,,,,,,,,,,,,,
+8456015,1764,UK Friendlies,1721760300,23/07/2024,15:45,Marlow,Potters Bar Town,2.1,4.0,2.6,2.1,4.0,2.6,,,,,,,,,,,,
+8456348,34422,Peru Liga 1,1721930400,25/07/2024,15:00,Alianza Atletico,FBC Melgar,4.0,3.1,1.909,4.333,3.1,1.85,0.5,1.925,1.925,0.5,1.925,1.925,2.25,2.025,1.825,2.25,2.0,1.85
+8456349,34422,Peru Liga 1,1721938500,25/07/2024,17:15,Cusco FC,Sport Huancayo,1.8,3.6,3.8,1.75,3.6,4.0,-0.5,1.85,2.0,-0.5,1.8,2.05,2.5,2.025,1.825,2.5,2.025,1.825
+8456735,363,Europe Friendlies,1721933100,25/07/2024,15:45,Holyport,Marlow,,,,,,,,,,,,,,,,,,
+8457163,1764,UK Friendlies,1721760300,23/07/2024,15:45,Oxford City,Sutton Utd,6.0,4.75,1.363,6.0,4.75,1.363,,,,,,,,,,,,
+8458479,363,Europe Friendlies,1721905200,25/07/2024,08:00,Borussia Mgladbach,Fortuna Sittard,,,,,,,,,,,,,,,,,,
+8467925,363,Europe Friendlies,1721760300,23/07/2024,15:45,Shelley Community Football Club,Frickley,,,,,,,,,,,,,,,,,,
+8467935,363,Europe Friendlies,1721760300,23/07/2024,15:45,Soham Town Rangers,Kings Lynn Town,,,,,,,,,,,,,,,,,,
+8471470,363,Europe Friendlies,1721908800,25/07/2024,09:00,Hamburg,Aris Limassol,,,,,,,,,,,,,,,,,,
+8471986,363,Europe Friendlies,1721919600,25/07/2024,12:00,Genoa,Mantova,,,,,,,,,,,,,,,,,,
+8471987,363,Europe Friendlies,1721836800,24/07/2024,13:00,Bologna,SV Brixen,,,,,,,,,,,,,,,,,,
+8473597,363,Europe Friendlies,1721757600,23/07/2024,15:00,Coventry Sphinx,Atherstone Town,,,,,,,,,,,,,,,,,,
+8473886,363,Europe Friendlies,1721760300,23/07/2024,15:45,Ascot Utd,Virginia Water,,,,,,,,,,,,,,,,,,
+8473982,363,Europe Friendlies,1721760300,23/07/2024,15:45,Melton Town,Stamford,,,,,,,,,,,,,,,,,,
+8474915,363,Europe Friendlies,1721836800,24/07/2024,13:00,Marseille,Sporting Club Toulon,,,,,,,,,,,,,,,,,,
+8476061,363,Europe Friendlies,1721760300,23/07/2024,15:45,Skegness Town,Louth Town,,,,,,,,,,,,,,,,,,
+8476744,363,Europe Friendlies,1721835000,24/07/2024,12:30,Frosinone,Bari,,,,,,,,,,,,,,,,,,
+8477497,363,Europe Friendlies,1721840400,24/07/2024,14:00,NAC,OFI Crete,,,,,,,,,,,,,,,,,,
+8477548,363,Europe Friendlies,1721829600,24/07/2024,11:00,Sassuolo,Trento,,,,,,,,,,,,,,,,,,
+8480309,261,Panama LPF,1721698200,22/07/2024,22:30,CA Independiente de la Chorrera,Herrera FC,1.727,3.5,4.2,1.571,3.6,5.25,-1.0,2.025,1.775,-1.0,2.025,1.775,2.5,1.9,1.9,2.5,1.9,1.9
+8480328,363,Europe Friendlies,1721759400,23/07/2024,15:30,Shildon,South Shields,,,,,,,,,,,,,,,,,,
+8481386,246,Brazil Serie C,1721689200,22/07/2024,20:00,AD Confianca,Ferroviario,1.909,3.3,3.5,1.75,3.3,4.75,-0.75,2.0,1.8,-0.5,1.775,2.025,2.25,1.95,1.85,2.25,2.05,1.75
+8481748,363,Europe Friendlies,1721759400,23/07/2024,15:30,Brocton FC,Sporting Khalsa,,,,,,,,,,,,,,,,,,
+8483271,232,Argentina Nacional B,1721679000,22/07/2024,17:10,CA Atlanta,Club Atletico Mitre,2.25,2.75,3.5,2.0,2.875,4.5,-0.25,1.825,2.025,-0.5,2.025,1.775,1.75,1.925,1.925,1.5,1.8,2.0
+8483318,443,Paraguay Division Intermedia,1721682000,22/07/2024,18:00,Rubio Nu,Atletico Tembetary de Villa Elisa,,,,,,,,,,,,,,,,,,
+8483319,443,Paraguay Division Intermedia,1721691000,22/07/2024,20:30,Independiente FBC,Pastoreo FC,1.8,3.4,3.75,1.75,3.4,3.9,-0.5,1.8,2.0,-0.5,1.775,2.025,2.5,1.85,1.95,2.5,1.95,1.85
+8484025,254,Colombia Primera A,1721696400,22/07/2024,22:00,Deportivo Pereira,Independiente Medellin,2.45,3.0,3.1,2.55,3.0,3.0,-0.25,2.1,1.775,0.0,1.775,2.1,2.25,2.025,1.825,2.25,2.0,1.85
+8485044,254,Colombia Primera A,1721869200,24/07/2024,22:00,Millonarios,Atletico Nacional Medellin,2.0,3.3,3.9,2.0,3.3,3.9,-0.5,2.025,1.825,-0.5,2.025,1.825,2.0,1.825,2.025,2.0,1.825,2.025
+8485216,363,Europe Friendlies,1721835000,24/07/2024,12:30,Trapani,Cosenza,,,,,,,,,,,,,,,,,,
+8485399,254,Colombia Primera A,1721768400,23/07/2024,18:00,Patriotas FC,Fortaleza,2.8,3.0,2.45,2.75,3.0,2.8,0.0,2.1,1.775,0.0,1.9,1.95,2.0,1.925,1.925,2.0,2.025,1.825
+8485400,254,Colombia Primera A,1721776200,23/07/2024,20:10,La Equidad,Jaguares de Cordoba,1.533,3.6,6.0,1.7,3.4,5.5,-1.0,2.05,1.8,-0.75,1.925,1.925,2.25,1.925,1.925,2.25,2.0,1.85
+8485401,254,Colombia Primera A,1721784000,23/07/2024,22:20,Deportes Tolima,Deportivo Pasto,1.5,3.75,6.0,1.615,3.6,6.25,-1.0,1.975,1.875,-0.75,1.8,2.05,2.25,1.9,1.95,2.25,2.0,1.85
+8485429,254,Colombia Primera A,1721941200,25/07/2024,18:00,America de Cali,Envigado FC,,,,,,,,,,,,,,,,,,
+8487933,363,Europe Friendlies,1721835000,24/07/2024,12:30,Pisa,Sondrio,,,,,,,,,,,,,,,,,,
+8490087,631,Elite Club Friendlies,1721757600,23/07/2024,15:00,Nottm Forest,Millwall,1.615,4.0,4.333,1.6,4.0,4.5,,,,,,,,,,,,
+8490314,363,Europe Friendlies,1721755800,23/07/2024,14:30,Mansfield,Chelsea Reserves,,,,,,,,,,,,,,,,,,
+8490372,255,Colombia Primera B,1721851200,24/07/2024,17:00,Boca Juniors De Cali,Llaneros,,,,,,,,,,,,,,,,,,
+8490375,255,Colombia Primera B,1721674800,22/07/2024,16:00,Leones,Real San Andres,1.833,3.2,3.9,1.727,3.5,4.75,-0.75,1.95,1.85,-0.75,1.9,1.9,2.5,1.85,1.95,2.75,2.0,1.8
+8490378,255,Colombia Primera B,1721949000,25/07/2024,20:10,Union Magdalena,Bogota FC,,,,,,,,,,,,,,,,,,
+8490798,363,Europe Friendlies,1721763000,23/07/2024,16:30,Sporting,Sevilla,2.2,3.4,2.9,2.0,3.5,3.2,,,,,,,,,,,,
+8491689,363,Europe Friendlies,1721874600,24/07/2024,23:30,Arsenal,Bournemouth,,,,,,,,,,,,,,,,,,
+8491934,363,Europe Friendlies,1721759400,23/07/2024,15:30,Spelthorne Sports,Uxbridge,,,,,,,,,,,,,,,,,,
+8492365,363,Europe Friendlies,1721759400,23/07/2024,15:30,Flackwell,Windsor  Eton,,,,,,,,,,,,,,,,,,
+8492898,1764,UK Friendlies,1721757600,23/07/2024,15:00,Stevenage,Coventry,4.0,3.75,1.727,4.2,3.7,1.7,,,,,,,,,,,,
+8492941,9241,Brazil Campeonato Amapaense,1721862900,24/07/2024,20:15,Trem AP,Oratorio RC,,,,,,,,,,,,,,,,,,
+8493043,363,Europe Friendlies,1721760300,23/07/2024,15:45,Hungerford Town,Cheltenham,,,,,,,,,,,,,,,,,,
+8493660,363,Europe Friendlies,1721754000,23/07/2024,14:00,SK Sturm Graz,FC Porto,3.0,3.5,2.0,3.25,3.7,1.85,,,,,,,,,,,,
+8493663,363,Europe Friendlies,1721833200,24/07/2024,12:00,Le Havre,Clermont Foot,,,,,,,,,,,,,,,,,,
+8493688,363,Europe Friendlies,1721912400,25/07/2024,10:00,Huddersfield,Hertha Berlin,,,,,,,,,,,,,,,,,,
+8493751,363,Europe Friendlies,1721923200,25/07/2024,13:00,Hertha Berlin,Cardiff,,,,,,,,,,,,,,,,,,
+8493908,1764,UK Friendlies,1721759400,23/07/2024,15:30,Dollingstown,Glenavon,9.0,6.5,1.181,10.0,10.0,1.1,,,,,,,,,,,,
+8494027,363,Europe Friendlies,1721921400,25/07/2024,12:30,Osasuna,Mirandes,,,,,,,,,,,,,,,,,,
+8494028,363,Europe Friendlies,1721842200,24/07/2024,14:30,Osasuna,Huesca,,,,,,,,,,,,,,,,,,
+8494102,363,Europe Friendlies,1721760300,23/07/2024,15:45,Godalming Town,Chipstead,,,,,,,,,,,,,,,,,,
+8494103,363,Europe Friendlies,1721759400,23/07/2024,15:30,East Grinstead Town,Lewes,,,,,,,,,,,,,,,,,,
+8494293,363,Europe Friendlies,1721759400,23/07/2024,15:30,Parkgate,Cleethorpes Town,,,,,,,,,,,,,,,,,,
+8494412,363,Europe Friendlies,1721840400,24/07/2024,14:00,Parndorf,Favoritner AC,,,,,,,,,,,,,,,,,,
+8494547,363,Europe Friendlies,1721760300,23/07/2024,15:45,Walthamstow,Leyton Orient,,,,,,,,,,,,,,,,,,
+8494548,363,Europe Friendlies,1721928600,25/07/2024,14:30,Juventud Torremolinos CF,Leyton Orient,,,,,,,,,,,,,,,,,,
+8494990,363,Europe Friendlies,1721755800,23/07/2024,14:30,RotWeiss Walldorf,SV Gonsenheim,3.2,4.5,1.727,3.2,4.5,1.727,,,,,,,,,,,,
+8495000,363,Europe Friendlies,1721846700,24/07/2024,15:45,Sutton Common Rovers,Croydon Athletic,,,,,,,,,,,,,,,,,,
+8495001,1764,UK Friendlies,1721760300,23/07/2024,15:45,Altrincham,Salford City,3.8,3.75,1.727,3.8,3.75,1.727,,,,,,,,,,,,
+8495040,363,Europe Friendlies,1721835000,24/07/2024,12:30,FK Blansko,FC Kurim,,,,,,,,,,,,,,,,,,
+8495045,363,Europe Friendlies,1721757600,23/07/2024,15:00,Gimnastica Segoviana,Valladolid,6.5,4.333,1.363,6.5,4.333,1.363,,,,,,,,,,,,
+8495126,363,Europe Friendlies,1721835000,24/07/2024,12:30,Brescia,US Pergolettese,,,,,,,,,,,,,,,,,,
+8495212,1764,UK Friendlies,1721919600,25/07/2024,12:00,Como,Cagliari,,,,,,,,,,,,,,,,,,
+8495555,363,Europe Friendlies,1721750400,23/07/2024,13:00,Frydlant Nad Ostravici,SK Hranice,,,,,,,,,,,,,,,,,,
+8495938,363,Europe Friendlies,1721760300,23/07/2024,15:45,South Park,Three Bridges,,,,,,,,,,,,,,,,,,
+8497174,363,Europe Friendlies,1721728800,23/07/2024,07:00,Celta Vigo,Sporting Gijon,1.75,3.6,3.75,1.75,3.6,3.7,-0.5,1.8,2.0,-0.5,1.8,2.0,2.75,2.0,1.8,2.75,2.0,1.8
+8497836,363,Europe Friendlies,1721752200,23/07/2024,13:30,1 FC Germania EgestorfLangreder,Hannover II,5.25,4.333,1.444,9.0,5.0,1.25,,,,,,,,,,,,
+8497884,375,World Club Friendlies,1721743200,23/07/2024,11:00,Mamelodi Sundowns,Cardiff,2.75,3.3,2.25,3.0,3.4,2.05,,,,,,,,,,,,
+8497906,363,Europe Friendlies,1721817000,24/07/2024,07:30,Jubilo Iwata,Reims,,,,,,,,,,,,,,,,,,
+8498003,363,Europe Friendlies,1721760300,23/07/2024,15:45,Buxton,Matlock Town,,,,,,,,,,,,,,,,,,
+8498295,375,World Club Friendlies,1721752200,23/07/2024,13:30,Las Palmas,Al Sadd,1.533,3.75,5.0,1.533,3.75,5.0,,,,,,,,,,,,
+8498317,363,Europe Friendlies,1721757600,23/07/2024,15:00,Ourense,Deportivo La Coruna,5.0,4.5,1.444,5.75,4.75,1.38,,,,,,,,,,,,
+8499041,232,Argentina Nacional B,1721689800,22/07/2024,20:10,Quilmes,San Martin de Tucuman,2.625,2.75,2.875,2.3,2.8,3.6,-0.25,2.05,1.8,-0.25,1.975,1.875,1.75,1.925,1.925,1.75,2.0,1.85
+8499092,363,Europe Friendlies,1721759400,23/07/2024,15:30,Birtley Town,Consett,,,,,,,,,,,,,,,,,,
+8499106,363,Europe Friendlies,1721759400,23/07/2024,15:30,Horsham YMCA,AFC Whyteleafe,,,,,,,,,,,,,,,,,,
+8499895,363,Europe Friendlies,1721811600,24/07/2024,06:00,Real Murcia,Nottm Forest U23,,,,,,,,,,,,,,,,,,
+8501838,363,Europe Friendlies,1721833200,24/07/2024,12:00,Metz,Francs Borains,,,,,,,,,,,,,,,,,,
+8502340,363,Europe Friendlies,1721926800,25/07/2024,14:00,Granada,Las Palmas,,,,,,,,,,,,,,,,,,
+8502343,363,Europe Friendlies,1721844000,24/07/2024,15:00,Getafe,Oviedo,,,,,,,,,,,,,,,,,,
+8503267,363,Europe Friendlies,1721760300,23/07/2024,15:45,New Mills,Chadderton,,,,,,,,,,,,,,,,,,
+8503694,363,Europe Friendlies,1721901600,25/07/2024,07:00,Gamba Osaka,Real Sociedad,,,,,,,,,,,,,,,,,,
+8503738,363,Europe Friendlies,1721836800,24/07/2024,13:00,Eibar,Barakaldo,,,,,,,,,,,,,,,,,,
+8503981,363,Europe Friendlies,1721842200,24/07/2024,14:30,Yeclano,FC Cartagena,,,,,,,,,,,,,,,,,,
+8503983,363,Europe Friendlies,1721844900,24/07/2024,15:15,Bergantinos,Racing Ferrol,,,,,,,,,,,,,,,,,,
+8504841,363,Europe Friendlies,1721930400,25/07/2024,15:00,Campobasso,Dag  Red,,,,,,,,,,,,,,,,,,
+8505083,363,Europe Friendlies,1721930400,25/07/2024,15:00,Shirehampton FC,Mangotsfield Utd,,,,,,,,,,,,,,,,,,
+8506751,912,Uruguay Segunda,1721689200,22/07/2024,20:00,Torque,CSyD Cooper,1.571,3.6,5.0,1.533,3.7,5.25,-0.75,1.825,1.975,-1.0,1.975,1.825,2.5,1.975,1.825,2.5,1.95,1.85
+8507110,912,Uruguay Segunda,1721680200,22/07/2024,17:30,Colon FC,Uruguay Montevideo,2.8,3.0,2.375,2.3,2.8,3.1,0.0,2.025,1.775,-0.25,1.975,1.825,2.25,2.0,1.8,2.0,2.025,1.775
+8510085,363,Europe Friendlies,1721754000,23/07/2024,14:00,Dinamo Zagreb,Vardar Skopje,1.5,3.75,5.5,1.363,4.1,7.0,,,,,,,,,,,,
+8510763,5708,UEFA Champions League Qualifying,1721757600,23/07/2024,15:00,Ferencvarosi TC,TNS,1.25,5.5,9.0,1.166,6.25,15.0,-1.5,1.85,2.0,-2.0,1.9,1.95,3.0,1.925,1.925,3.0,1.825,2.025
+8510766,5708,UEFA Champions League Qualifying,1721761200,23/07/2024,16:00,Shamrock Rovers,Sparta Prague,5.5,4.0,1.5,7.5,4.5,1.333,1.0,2.0,1.85,1.25,2.025,1.825,2.75,1.9,1.95,2.75,1.925,1.925
+8510777,363,Europe Friendlies,1721760300,23/07/2024,15:45,Pershore,Malvern Town,,,,,,,,,,,,,,,,,,
+8510803,5708,UEFA Champions League Qualifying,1721757600,23/07/2024,15:00,UE Santa Coloma,Midtjylland,11.0,4.5,1.285,12.0,6.25,1.181,1.5,2.05,1.8,2.0,1.925,1.925,3.0,1.8,2.05,3.25,1.925,1.925
+8510838,5708,UEFA Champions League Qualifying,1721750400,23/07/2024,13:00,Lincoln Red Imps FC,FK Qarabag,7.5,4.1,1.4,10.0,4.5,1.3,1.25,2.0,1.85,1.5,1.925,1.925,2.75,1.8,2.05,2.75,1.9,1.95
+8511008,5708,UEFA Champions League Qualifying,1721755800,23/07/2024,14:30,FCSB,Maccabi Tel Aviv,2.2,3.25,3.0,2.25,3.4,2.7,-0.25,1.975,1.875,-0.25,2.05,1.8,2.25,1.8,2.05,2.5,1.95,1.9
+8511040,363,Europe Friendlies,1721756700,23/07/2024,14:45,Rusthall FC,Eastbourne United,,,,,,,,,,,,,,,,,,
+8511128,5708,UEFA Champions League Qualifying,1721748600,23/07/2024,12:30,Panevezys,Jagiellonia Bialystok,4.0,3.75,1.727,5.5,4.333,1.444,0.5,2.15,1.725,1.0,2.125,1.75,2.5,1.8,2.05,2.75,2.025,1.825
+8511237,363,Europe Friendlies,1721760300,23/07/2024,15:45,Rugby Town,Aylestone Park FC,,,,,,,,,,,,,,,,,,
+8511519,34432,Peru Liga 2,1721678400,22/07/2024,17:00,Deportivo Municipal,Ayacucho FC,,,,,,,,,,,,,,,,,,
+8511520,34432,Peru Liga 2,1721678400,22/07/2024,17:00,Comerciantes FC,Academia Deportiva Cantolao,,,,,,,,,,,,,,,,,,
+8511600,4120,Australia Northern NSW Premier League,1721815200,24/07/2024,07:00,Edgeworth Eagles,New Lambton FC,1.333,5.0,6.0,1.285,5.25,6.5,,,,,,,,,,,,
+8511762,22179,Australia FFA Cup Qualifying,1721726700,23/07/2024,06:25,Brisbane Roar,Perth Glory,2.1,3.8,2.875,1.85,3.75,3.4,-0.75,2.0,1.8,-0.5,1.9,1.9,3.0,1.9,1.9,3.0,1.975,1.825
+8511826,363,Europe Friendlies,1721759400,23/07/2024,15:30,Dalkeith Thistle,Whitehill Welfare,,,,,,,,,,,,,,,,,,
+8511833,34432,Peru Liga 2,1721678400,22/07/2024,17:00,Santos FC,Deportivo Binacional,,,,,,,,,,,,,,,,,,
+8512255,363,Europe Friendlies,1721760300,23/07/2024,15:45,Fleetlands FC,Baffins Milton Rovers,,,,,,,,,,,,,,,,,,
+8512802,8609,Australia NPL Queensland,1721899800,25/07/2024,06:30,Sunshine Coast Wanderers,Wynnum Wolves,,,,,,,,,,,,,,,,,,
+8514804,363,Europe Friendlies,1721759400,23/07/2024,15:30,Stocksbridge PS,Retford Utd,,,,,,,,,,,,,,,,,,
+8515725,5708,UEFA Champions League Qualifying,1721754000,23/07/2024,14:00,Apoel Nicosia,CS Petrocub,1.533,3.6,6.0,1.42,3.9,7.5,-1.0,1.95,1.9,-1.25,1.975,1.875,2.75,1.9,1.95,2.75,1.975,1.875
+8515797,5708,UEFA Champions League Qualifying,1721844000,24/07/2024,15:00,Ludogorets Razgrad,Dinamo Minsk,1.3,5.0,8.0,1.363,4.75,7.0,-1.5,2.05,1.8,-1.25,1.825,2.025,3.0,2.025,1.825,2.75,1.925,1.925
+8516115,5708,UEFA Champions League Qualifying,1721844900,24/07/2024,15:15,NK Celje,Slovan Bratislava,2.4,3.2,2.75,2.2,3.3,2.9,0.0,1.775,2.1,-0.25,2.0,1.85,2.25,1.85,2.0,2.5,1.95,1.9
+8516329,25186,Australia NPL Queensland U23,1721727000,23/07/2024,06:30,Gold Coast United U23,Wynnum Wolves U23,2.1,3.75,2.7,2.1,3.75,2.7,-0.25,1.925,1.875,-0.25,1.925,1.875,3.75,1.9,1.9,3.75,1.9,1.9
+8516397,5708,UEFA Champions League Qualifying,1721746800,23/07/2024,12:00,BodoGlimt,Rigas FS,1.363,4.333,7.5,1.27,5.0,9.0,-1.25,1.8,2.05,-1.75,2.025,1.825,2.75,1.85,2.0,3.0,1.825,2.025
+8516584,5708,UEFA Champions League Qualifying,1721754000,23/07/2024,14:00,Malmo FF,KI Klaksvik,1.285,5.0,8.5,1.166,6.5,12.0,-1.5,1.85,2.0,-2.0,1.85,2.0,3.0,1.9,1.95,3.25,1.925,1.925
+8516644,363,Europe Friendlies,1721760300,23/07/2024,15:45,Bourne Town,Holbeach United,,,,,,,,,,,,,,,,,,
+8516841,363,Europe Friendlies,1721760300,23/07/2024,15:45,Billingshurst FC,Crawley Down,,,,,,,,,,,,,,,,,,
+8517361,5708,UEFA Champions League Qualifying,1721842200,24/07/2024,14:30,PAOK Salonika,Borac Banja Luka,1.222,5.5,10.0,1.09,9.5,21.0,-1.75,1.9,1.95,-2.5,1.9,1.95,3.0,1.85,2.0,3.25,1.825,2.025
+8517770,363,Europe Friendlies,1721761200,23/07/2024,16:00,Meridian Vp FC,Bermondsey Town FC,,,,,,,,,,,,,,,,,,
+8521245,5720,UEFA Europa League Qualifying,1721930400,25/07/2024,15:00,Panathinaikos,Botev Plovdiv,1.285,5.0,8.5,1.285,5.0,8.0,-1.5,1.85,1.95,-1.5,1.825,1.975,3.25,1.95,1.85,3.0,1.825,1.975
+8521315,5720,UEFA Europa League Qualifying,1721926800,25/07/2024,14:00,Sheriff Tiraspol,Elfsborg,2.9,3.3,2.25,2.6,3.3,2.45,0.25,1.75,2.05,0.0,1.975,1.825,2.5,1.75,2.05,2.5,1.8,2.0
+8521473,542,Australia SA Premier League Reserves,1721730600,23/07/2024,07:30,Para Hills Reserves,Adelaide Croatia Raiders Reserves,2.0,4.0,2.75,1.95,4.2,2.75,-0.25,1.8,2.0,-0.25,1.8,2.0,4.25,1.925,1.875,4.25,1.925,1.875
+8521491,5720,UEFA Europa League Qualifying,1721930400,25/07/2024,15:00,CS Corvinul Hunedoara,HNK Rijeka,4.0,3.75,1.727,4.5,4.0,1.615,0.75,1.85,1.95,0.75,2.0,1.8,2.75,2.0,1.8,2.5,1.8,2.0
+8521614,33931,UEFA Conference League Qualifying,1721761200,23/07/2024,16:00,SS Virtus,FC Flora Tallinn,7.5,6.0,1.25,5.25,5.5,1.38,1.75,1.9,1.9,1.25,1.975,1.825,3.0,1.825,1.975,3.0,1.8,2.0
+8521711,363,Europe Friendlies,1721761200,23/07/2024,16:00,Belper United FC,Anstey Nomads,,,,,,,,,,,,,,,,,,
+8521779,33931,UEFA Conference League Qualifying,1721925000,25/07/2024,13:30,Omonia Nicosia,Torpedo Kutaisi,1.571,3.75,4.75,1.571,3.75,4.75,,,,,,,,,,,,
+8521781,4036,Australia South Australia State League Reserves,1721727000,23/07/2024,06:30,Playford Reserves,West Adelaide Reserves,1.615,4.5,3.6,1.615,4.5,3.6,-0.75,1.85,1.95,-0.75,1.85,1.95,4.0,1.9,1.9,4.0,1.9,1.9
+8521908,363,Europe Friendlies,1721743200,23/07/2024,11:00,Wolviston FC,Sunderland West End FC,,,,,,,,,,,,,,,,,,
+8522064,4076,Brazil Campeonato Gaucho 2,1721689200,22/07/2024,20:00,EC Pelotas,Inter de Santa Maria,2.0,3.5,3.1,2.0,3.5,3.1,-0.25,1.8,2.0,-0.25,1.8,2.0,2.0,1.925,1.875,2.0,1.925,1.875
+8522065,4076,Brazil Campeonato Gaucho 2,1721689200,22/07/2024,20:00,Passo Fundo RS,Monsoon,,,,,,,,,,,,,,,,,,
+8522992,254,Colombia Primera A,1721689200,22/07/2024,20:00,Deportivo Cali,Alianza,1.75,3.5,4.75,1.85,3.3,4.5,-0.75,2.025,1.825,-0.5,1.9,1.95,2.25,1.9,1.95,2.0,1.8,2.05
+8523765,460,Estonia Cup,1721754000,23/07/2024,14:00,Laanemaa Haapsalu,Rumori Calcio,,,,,,,,,,,,,,,,,,
+8524586,14895,USA USL League One,1721865600,24/07/2024,21:00,Forward Madison FC,Central Valley Fuego FC,,,,,,,,,,,,,,,,,,
+8524634,33931,UEFA Conference League Qualifying,1721923200,25/07/2024,13:00,FC Iberia 1999,Partizani Tirana,2.5,3.4,2.5,2.45,3.25,2.625,0.0,1.975,1.825,0.0,1.8,2.0,2.25,1.925,1.875,2.25,1.95,1.85
+8524732,363,Europe Friendlies,1721751300,23/07/2024,13:15,Ishoj,Holbaek,,,,,,,,,,,,,,,,,,
+8524780,33931,UEFA Conference League Qualifying,1721923200,25/07/2024,13:00,FK Zalgiris Vilnius,Pafos FC,2.4,3.1,2.7,2.4,3.1,2.7,,,,,,,,,,,,
+8524782,33931,UEFA Conference League Qualifying,1721926800,25/07/2024,14:00,FC Zurich,Shelbourne,1.166,7.0,11.0,1.333,5.5,7.0,-1.75,1.8,2.0,-1.5,1.9,1.9,3.0,1.825,1.975,2.75,1.85,1.95
+8524784,33931,UEFA Conference League Qualifying,1721923200,25/07/2024,13:00,FC Noah,Sliema Wanderers,2.2,3.25,2.875,1.909,3.4,3.5,,,,,,,,,,,,
+8524786,33931,UEFA Conference League Qualifying,1721930400,25/07/2024,15:00,St Gallen,Tobol Kostanay,1.3,4.75,9.0,1.333,4.75,7.5,-1.25,1.8,2.0,-1.5,1.975,1.825,2.75,1.9,1.9,2.75,1.775,2.025
+8524788,33931,UEFA Conference League Qualifying,1721933100,25/07/2024,15:45,Valur Reykjavik,St Mirren,3.6,3.4,1.909,2.55,3.3,2.45,0.5,1.9,1.9,0.0,1.95,1.85,2.5,1.9,1.9,2.5,1.825,1.975
+8524790,33931,UEFA Conference League Qualifying,1721919600,25/07/2024,12:00,KuPS Kuopio,Tromso,2.875,3.75,2.1,3.1,3.75,2.0,0.0,1.95,1.85,0.25,2.0,1.8,2.5,1.85,1.95,2.5,1.875,1.925
+8524792,33931,UEFA Conference League Qualifying,1721926800,25/07/2024,14:00,Banik Ostrava,FC Urartu,1.333,5.0,7.0,1.333,5.25,7.0,-1.25,1.85,1.95,-1.5,1.95,1.85,2.75,1.875,1.925,2.75,1.825,1.975
+8524836,363,Europe Friendlies,1721757600,23/07/2024,15:00,Henbury And Rockleaze FC,Cadbury Heath,,,,,,,,,,,,,,,,,,
+8525895,363,Europe Friendlies,1721760300,23/07/2024,15:45,Cirencester,Gloucester,,,,,,,,,,,,,,,,,,
+8527136,363,Europe Friendlies,1721760300,23/07/2024,15:45,Horsham,Broadbridge Heath,,,,,,,,,,,,,,,,,,
+8527491,363,Europe Friendlies,1721759400,23/07/2024,15:30,Horden,Whickham,,,,,,,,,,,,,,,,,,
+8527501,251,Venezuela Primera Division,1721689200,22/07/2024,20:00,Academia Puerto Cabello,Portuguesa,1.95,3.25,3.4,1.727,3.3,4.333,-0.75,1.975,1.825,-0.5,1.775,2.025,2.25,1.9,1.9,2.25,2.025,1.775
+8527502,6417,Venezuela Clausura,1721770200,23/07/2024,18:30,Inter de Barinas,Carabobo,,,,,,,,,,,,,,,,,,
+8527503,6417,Venezuela Clausura,1721856600,24/07/2024,18:30,Metropolitanos FC,UCV,,,,,,,,,,,,,,,,,,
+8527504,6417,Venezuela Clausura,1721866500,24/07/2024,21:15,Monagas,Deportivo La Guaira,,,,,,,,,,,,,,,,,,
+8528209,363,Europe Friendlies,1721754000,23/07/2024,14:00,Eimsbutteler TV,VfB Lubeck II,,,,,,,,,,,,,,,,,,
+8528342,363,Europe Friendlies,1721831400,24/07/2024,11:30,Wolfsburg,Lille,,,,,,,,,,,,,,,,,,
+8529253,363,Europe Friendlies,1721836800,24/07/2024,13:00,BourgPeronnas,Grenoble,,,,,,,,,,,,,,,,,,
+8529284,363,Europe Friendlies,1721806200,24/07/2024,04:30,Leganes,Alcorcon,,,,,,,,,,,,,,,,,,
+8529395,363,Europe Friendlies,1721760300,23/07/2024,15:45,Stratford Town,West Brom U23,,,,,,,,,,,,,,,,,,
+8529688,363,Europe Friendlies,1721833200,24/07/2024,12:00,ADO Den Haag,ZulteWaregem,,,,,,,,,,,,,,,,,,
+8529917,363,Europe Friendlies,1721815200,24/07/2024,07:00,Fremad Amager,FC Helsingor,,,,,,,,,,,,,,,,,,
+8530050,363,Europe Friendlies,1721840400,24/07/2024,14:00,Konyaspor,HNK Gorica,,,,,,,,,,,,,,,,,,
+8530142,363,Europe Friendlies,1721919600,25/07/2024,12:00,Padova,Torres,,,,,,,,,,,,,,,,,,
+8531311,363,Europe Friendlies,1721833200,24/07/2024,12:00,AC Feralpisalo,Hellas Verona U19,,,,,,,,,,,,,,,,,,
+8531750,363,Europe Friendlies,1721760300,23/07/2024,15:45,Atherton Collieries,Charnock Richard,,,,,,,,,,,,,,,,,,
+8532414,363,Europe Friendlies,1721822400,24/07/2024,09:00,Karlsruher SC,1860 Munich,,,,,,,,,,,,,,,,,,
+8532698,363,Europe Friendlies,1721813400,24/07/2024,06:30,Pacos Ferreira,Felgueiras 1932,,,,,,,,,,,,,,,,,,
+8533171,5720,UEFA Europa League Qualifying,1721923200,25/07/2024,13:00,Wisla Krakow,Rapid Vienna,2.6,3.4,2.4,3.9,3.7,1.7,0.5,1.825,1.975,0.75,1.85,1.95,2.25,1.8,2.0,2.5,1.95,1.85
+8533172,5720,UEFA Europa League Qualifying,1721925000,25/07/2024,13:30,MFK Ruzomberok,Trabzonspor,4.75,4.0,1.571,4.75,4.2,1.55,0.75,2.05,1.75,1.0,1.85,1.95,2.5,1.7,2.1,2.75,1.825,1.975
+8533190,33433,Iceland 5 Deild,1721678400,22/07/2024,17:00,Thorlakur FC,Lettir Reykjavik,2.25,4.5,2.25,3.5,5.0,1.6,0.25,2.05,1.75,1.0,1.875,1.925,4.5,1.95,1.85,4.5,1.825,1.975
+8533252,1764,UK Friendlies,1721760300,23/07/2024,15:45,Ballymacash Rangers,Newington FC,2.4,3.6,2.4,2.4,3.6,2.4,,,,,,,,,,,,
+8533270,30075,Iceland Women 2 Deild,1721676651,22/07/2024,16:30,Augnablik Kopavogur Women,Smari Women,1.04,15.0,26.0,1.04,15.0,34.0,-4.0,1.9,1.9,-4.0,1.9,1.9,4.75,1.8,2.0,5.0,1.975,1.825
+8533569,363,Europe Friendlies,1721844000,24/07/2024,15:00,Seaton Carew FC,Great Ayton FC,,,,,,,,,,,,,,,,,,
+8533658,33931,UEFA Conference League Qualifying,1721750400,23/07/2024,13:00,KF Ballkani,Hamrun Spartans,1.666,3.5,4.75,1.75,3.4,4.5,-0.75,1.975,1.825,-0.75,2.025,1.775,2.25,2.025,1.775,2.0,1.825,1.975
+8533660,33931,UEFA Conference League Qualifying,1721754000,23/07/2024,14:00,FC 03 Differdange,Ordabasy,2.6,3.25,2.5,2.6,3.2,2.5,0.0,1.775,2.025,0.0,1.975,1.825,2.25,2.0,1.8,2.25,1.8,2.0
+8533661,33931,UEFA Conference League Qualifying,1721833200,24/07/2024,12:00,FC Struga Trim  Lum,Pyunik Yerevan,3.1,3.25,2.15,2.2,3.3,2.9,0.0,1.825,1.975,-0.25,1.975,1.825,2.25,1.9,1.9,2.25,1.875,1.925
+8533662,33931,UEFA Conference League Qualifying,1721840400,24/07/2024,14:00,Dinamo Batumi,FK Decic Tuzi,1.533,4.2,5.0,1.4,4.75,5.75,-1.0,1.875,1.925,-1.25,1.975,1.825,2.25,1.825,1.975,2.5,1.95,1.85
+8533663,33931,UEFA Conference League Qualifying,1721844000,24/07/2024,15:00,AEK Athens,Inter Club dEscaldes,1.062,10.0,21.0,1.045,13.0,41.0,-3.5,1.825,1.975,-3.25,1.975,1.825,4.25,1.95,1.85,3.75,1.8,2.0
+8533801,33931,UEFA Conference League Qualifying,1721846700,24/07/2024,15:45,Cliftonville,FK Auda,3.2,3.6,2.0,2.9,3.6,2.1,0.25,1.925,1.875,0.25,1.95,1.85,2.5,1.825,1.975,2.5,1.825,1.975
+8533802,33931,UEFA Conference League Qualifying,1721925000,25/07/2024,13:30,Zira IK,Dunajska Streda,2.2,3.3,3.0,2.5,3.3,2.6,-0.25,1.925,1.875,0.0,1.85,1.95,2.25,1.925,1.875,2.25,1.95,1.85
+8533803,33931,UEFA Conference League Qualifying,1721923200,25/07/2024,13:00,FCB Magpies,FC Copenhagen,13.0,8.0,1.125,23.0,11.0,1.071,2.75,1.95,1.85,2.75,1.975,1.825,3.75,2.0,1.8,3.5,1.825,1.975
+8533804,33931,UEFA Conference League Qualifying,1721923200,25/07/2024,13:00,FC Milsami,FC Astana,2.1,3.4,3.1,3.25,3.5,2.0,0.0,1.825,1.975,0.25,2.025,1.775,2.75,2.0,1.8,2.25,1.9,1.9
+8533805,33931,UEFA Conference League Qualifying,1721928600,25/07/2024,14:30,CSKA 1948 Sofia,Buducnost Podgorica,1.727,3.4,4.5,1.615,3.5,5.25,-0.75,1.9,1.9,-0.75,1.825,1.975,2.5,1.825,1.975,2.5,1.9,1.9
+8533806,33931,UEFA Conference League Qualifying,1721929500,25/07/2024,14:45,Istanbul Basaksehir,La Fiorita,1.125,8.0,15.0,1.01,21.0,81.0,,,,,,,,,,,,
+8533807,33931,UEFA Conference League Qualifying,1721934000,25/07/2024,16:00,Zrinjski Mostar,NK Bravo,1.65,3.5,5.0,1.5,3.7,6.5,-0.75,1.825,1.975,-1.0,1.85,1.95,2.5,2.0,1.8,2.5,1.975,1.825
+8533808,33931,UEFA Conference League Qualifying,1721934000,25/07/2024,16:00,Stjarnan,Paide Linnameeskond,1.909,3.6,3.4,1.615,3.9,4.5,-0.5,1.8,2.0,-0.75,1.775,2.025,2.75,1.9,1.9,2.75,1.875,1.925
+8533809,33931,UEFA Conference League Qualifying,1721934000,25/07/2024,16:00,FK Sarajevo,FC Spartak Trnava,2.4,3.3,2.7,2.5,3.25,2.6,0.0,1.85,1.95,0.0,1.825,1.975,2.25,1.975,1.825,2.25,2.0,1.8
+8533810,33931,UEFA Conference League Qualifying,1721934900,25/07/2024,16:15,Breidablik,KF Drita,1.85,3.5,3.75,1.727,3.6,4.2,-0.5,1.825,1.975,-0.75,1.975,1.825,2.25,1.9,1.9,2.25,1.9,1.9
+8534060,33931,UEFA Conference League Qualifying,1721930400,25/07/2024,15:00,NK Osijek,FC Levadia Tallinn,1.25,5.5,9.0,1.363,4.75,6.5,-1.5,1.825,1.975,-1.5,2.0,1.8,3.0,1.875,1.925,3.0,1.925,1.875
+8534061,33931,UEFA Conference League Qualifying,1721930400,25/07/2024,15:00,Gent,Vikingur Gota,1.181,6.8,10.0,1.2,6.5,9.5,-2.0,1.9,1.9,-2.0,1.9,1.9,3.5,1.975,1.825,3.25,1.8,2.0
+8534097,33931,UEFA Conference League Qualifying,1721931300,25/07/2024,15:15,NK Maribor,CS U Craiova,2.3,3.25,2.875,2.45,3.25,2.7,0.0,1.8,2.0,0.0,1.8,2.0,2.5,1.975,1.825,2.5,1.975,1.825
+8534147,33931,UEFA Conference League Qualifying,1721933100,25/07/2024,15:45,Legia Warsaw,Caernarfon Town,1.1,9.0,13.0,1.055,15.0,21.0,-2.75,1.825,1.975,-3.5,1.85,1.95,4.0,1.85,1.95,4.5,1.9,1.9
+8534148,33931,UEFA Conference League Qualifying,1721933100,25/07/2024,15:45,Vikingur Reykjavik,FK Egnatia,1.9,3.4,3.6,1.65,3.6,4.75,-0.5,1.875,1.925,-0.75,1.85,1.95,2.5,1.9,1.9,2.5,1.95,1.85
+8534222,363,Europe Friendlies,1721838600,24/07/2024,13:30,Motorlet Praha,SK Sokol Zapy,,,,,,,,,,,,,,,,,,
+8534232,33931,UEFA Conference League Qualifying,1721926800,25/07/2024,14:00,F91 Dudelange,BK Hacken,6.5,4.5,1.4,6.5,4.5,1.4,,,,,,,,,,,,
+8534233,33931,UEFA Conference League Qualifying,1721926800,25/07/2024,14:00,Floriana,Guimaraes,17.0,8.0,1.1,11.0,5.75,1.222,2.0,1.8,2.0,1.75,2.025,1.775,3.25,1.925,1.875,3.25,1.975,1.825
+8534234,33931,UEFA Conference League Qualifying,1721926800,25/07/2024,14:00,Brondby,KF Llapi,1.222,6.0,9.0,1.142,7.5,11.0,-1.75,1.85,1.95,-2.0,1.775,2.025,3.0,1.925,1.875,3.25,2.025,1.775
+8534242,255,Colombia Primera B,1721682000,22/07/2024,18:00,Real Soacha Cundinamarca,Orsomarso,2.05,3.1,3.25,1.7,3.9,4.333,-0.25,1.8,2.0,-0.75,1.875,1.925,2.25,1.775,2.025,3.0,1.975,1.825
+8534253,443,Paraguay Division Intermedia,1721682000,22/07/2024,18:00,Rubio Nu,CA Tembetary,2.6,3.2,2.4,3.25,3.0,2.1,0.25,1.775,2.025,0.25,1.95,1.85,2.25,1.9,1.9,2.0,1.775,2.025
+8535315,823,U19 Euro Championships Women,1721818800,24/07/2024,08:00,England U19 Women,Spain U19 Women,,,,,,,,,,,,,,,,,,
+8535316,823,U19 Euro Championships Women,1721833200,24/07/2024,12:00,Netherlands Women U19,France U19 Women,,,,,,,,,,,,,,,,,,
+8535709,16869,Paraguay Women League,1721679300,22/07/2024,17:15,Club Guarani Women,Club Olimpia Women,3.8,3.9,1.727,5.75,3.7,1.55,1.0,1.95,1.85,1.0,1.95,1.85,3.0,1.9,1.9,2.75,1.875,1.925
+8535713,450,Brazil U20 League,1721682000,22/07/2024,18:00,CA Piauiense U20,Oeirense U20,1.166,5.75,15.0,1.42,4.333,5.5,-2.0,1.925,1.875,-1.25,1.9,1.9,3.0,1.9,1.9,3.0,1.7,2.1
+8536126,363,Europe Friendlies,1721818800,24/07/2024,08:00,Buriram United,Prachuap FC,,,,,,,,,,,,,,,,,,
+8536490,363,Europe Friendlies,1721743200,23/07/2024,11:00,Redgate Clayton FC,Abbey Hulton United,,,,,,,,,,,,,,,,,,
+8536491,363,Europe Friendlies,1721755800,23/07/2024,14:30,Brockworth Albion FC,Fairford Town,,,,,,,,,,,,,,,,,,
+8536492,363,Europe Friendlies,1721757600,23/07/2024,15:00,Beacon Hill FC,Liss Athletic FC,,,,,,,,,,,,,,,,,,
+8536493,363,Europe Friendlies,1721757600,23/07/2024,15:00,Caldicot Town AFC,Shirehampton FC,,,,,,,,,,,,,,,,,,
+8536495,363,Europe Friendlies,1721757600,23/07/2024,15:00,Colden Common FC,Overton United FC,,,,,,,,,,,,,,,,,,
+8536496,363,Europe Friendlies,1721759400,23/07/2024,15:30,Thornbury Town FC,Bristol Manor Farm,,,,,,,,,,,,,,,,,,
+8536770,974,AFF U19 Championship,1721737800,23/07/2024,09:30,Cambodia U19,Philippines U19,2.1,3.7,2.75,2.05,3.75,2.8,-0.25,1.925,1.875,-0.25,1.9,1.9,3.0,1.8,2.0,3.0,1.8,2.0
+8536782,223,Costa Rica Primera Division,1721854800,24/07/2024,18:00,AD San Carlos,Cartagines,1.666,3.75,4.333,1.7,3.8,4.1,-0.75,1.9,1.9,-0.75,1.95,1.85,2.75,1.825,1.975,2.75,1.8,2.0
+8537158,13433,Myanmar League Women,1721725200,23/07/2024,06:00,Myawady FC Women,Ayeyawady Utd Women,2.0,3.75,2.875,1.727,4.0,3.5,-0.5,1.775,2.025,-0.5,1.775,2.025,2.75,1.775,2.025,2.75,1.775,2.025
+8537162,3756,Friendly Match  80 mins play,1721754000,23/07/2024,14:00,Mauritania U20,Valencia U20,4.0,4.0,1.615,4.0,4.0,1.615,,,,,,,,,,,,
+8537163,3756,Friendly Match  80 mins play,1721768400,23/07/2024,18:00,Argentina U20,Levante U20,2.3,3.4,2.6,2.0,3.5,3.1,,,,,,,,,,,,
+8537169,25378,Australia Northern NSW Premier League Women,1721728800,23/07/2024,07:00,Charlestown Azzurri Women,Maitland FC Women,2.55,4.0,2.1,3.0,4.1,1.833,0.25,1.925,1.875,0.5,1.9,1.9,3.75,1.95,1.85,4.0,1.9,1.9
+8537183,29118,Australia NSW League 1 U20,1721727000,23/07/2024,06:30,Northern Tigers U20,Dulwich Hill U20,1.727,3.75,3.75,1.727,3.75,3.75,-0.75,1.95,1.85,-0.75,1.95,1.85,3.5,2.075,1.725,3.5,2.075,1.725
+8537197,1764,UK Friendlies,1721760300,23/07/2024,15:45,Bishops Stortford,Welling,5.25,4.75,1.38,5.25,4.75,1.38,,,,,,,,,,,,
+8537324,1764,UK Friendlies,1721759400,23/07/2024,15:30,Briton Ferry,Swansea U21,2.5,3.75,2.25,2.5,3.75,2.25,,,,,,,,,,,,
+8537424,306,India Calcutta Football League,1721727000,23/07/2024,06:30,Cal Police Club,Mohun Bagan SG II,2.25,3.5,2.6,2.75,3.6,2.1,0.25,1.9,1.9,0.25,1.9,1.9,2.5,1.9,1.9,2.5,1.9,1.9
+8537425,306,India Calcutta Football League,1721727000,23/07/2024,06:30,Peerless SC,Bhawanipore FC,3.25,3.25,2.0,3.25,3.25,2.0,0.5,1.775,2.025,0.5,1.775,2.025,2.5,2.0,1.8,2.5,2.0,1.8
+8537428,363,Europe Friendlies,1721739600,23/07/2024,10:00,MFK Chrudim,FK Chlumec NC,1.4,5.0,5.0,1.4,5.0,5.0,,,,,,,,,,,,
+8537429,363,Europe Friendlies,1721835000,24/07/2024,12:30,FC Sion,Villarreal C,,,,,,,,,,,,,,,,,,
+8537435,1063,India Mizoram Premier League,1721728800,23/07/2024,07:00,Sihphir Venghlun,Ramhlun Athletic FC,2.7,3.75,2.1,2.7,3.75,2.1,0.25,1.9,1.9,0.25,1.9,1.9,2.75,1.8,2.0,2.75,1.8,2.0
+8537436,1063,India Mizoram Premier League,1721718000,23/07/2024,04:00,Chanmari FC,Aizawl FC XI,2.0,3.4,3.1,4.75,3.7,1.55,0.75,2.05,1.75,0.75,2.05,1.75,2.75,1.95,1.85,2.75,1.95,1.85
+8537459,36295,Ireland U20 League,1721758500,23/07/2024,15:15,Treaty United FC U20,Cobh Ramblers U20,3.6,5.0,1.571,3.6,5.0,1.571,,,,,,,,,,,,
+8537470,363,Europe Friendlies,1721746800,23/07/2024,12:00,FC Kryvbas Kriviy Rih,Caykur Rizespor,2.5,3.75,2.25,2.5,3.75,2.25,,,,,,,,,,,,
+8537560,36295,Ireland U20 League,1721758500,23/07/2024,15:15,Cork City U20,Wexford FC U20,1.571,4.4,4.0,1.571,4.4,4.0,,,,,,,,,,,,
+8537589,32,Finland Kolmonen,1721750400,23/07/2024,13:00,FC Haka Juniors,PP70,1.125,8.0,13.0,1.125,8.0,13.0,,,,,,,,,,,,
+8537590,32,Finland Kolmonen,1721752200,23/07/2024,13:30,VPSJ,SIF,1.166,7.5,10.0,1.166,7.5,10.0,,,,,,,,,,,,
+8537591,32,Finland Kolmonen,1721751300,23/07/2024,13:15,VPV PalloVeikot,Narpes Kraft II,1.2,6.5,8.0,1.1,9.0,13.0,,,,,,,,,,,,
+8537614,32721,Malaysia MFL Cup,1721726100,23/07/2024,06:15,Kuala Lumpur City U23,Sabah FC U23,1.1,9.5,13.0,1.1,9.5,13.0,-2.5,1.8,2.0,-2.5,1.8,2.0,3.5,1.8,2.0,3.5,1.8,2.0
+8537615,32721,Malaysia MFL Cup,1721727000,23/07/2024,06:30,Kedah II,Terengganu II,6.0,4.75,1.363,6.0,4.75,1.363,1.5,1.8,2.0,1.5,1.8,2.0,2.5,1.7,2.1,2.5,1.7,2.1
+8537616,817,Iceland 4 Deild,1721762100,23/07/2024,16:15,KH Hlidarendi,Arborg,1.8,4.5,3.0,1.8,4.5,3.0,,,,,,,,,,,,
+8537617,817,Iceland 4 Deild,1721762100,23/07/2024,16:15,KA Asvellir,Ymir Kopavogur,3.9,4.75,1.533,3.6,4.75,1.6,,,,,,,,,,,,
+8537618,817,Iceland 4 Deild,1721764800,23/07/2024,17:00,Kria,RB Keflavik,1.142,8.0,11.0,1.142,8.0,11.0,,,,,,,,,,,,
+8537665,1764,UK Friendlies,1721759400,23/07/2024,15:30,Ballymena Utd,Annagh United,1.6,4.333,3.8,1.6,4.333,3.8,,,,,,,,,,,,
+8537695,223,Costa Rica Primera Division,1721854800,24/07/2024,18:00,Santos de Guapiles,Municipal Perez Zeledon,2.05,3.25,3.4,2.0,3.3,3.5,-0.25,1.8,2.0,-0.5,2.025,1.775,2.5,1.875,1.925,2.5,1.875,1.925
+8537710,32,Finland Kolmonen,1721750400,23/07/2024,13:00,PeKa,IPS Edustus,2.4,4.5,2.1,1.615,5.0,3.3,,,,,,,,,,,,
+8537711,32,Finland Kolmonen,1721753100,23/07/2024,13:45,SC Zulimanit,Kings SC,4.333,6.0,1.4,4.333,6.0,1.4,,,,,,,,,,,,
+8537719,363,Europe Friendlies,1721757600,23/07/2024,15:00,Barendrecht,Sparta Rotterdam Reserves,2.25,4.5,2.25,2.25,4.5,2.25,,,,,,,,,,,,
+8537728,363,Europe Friendlies,1721758500,23/07/2024,15:15,Vauxhall Motors,AFC Crewe,,,,,,,,,,,,,,,,,,
+8537742,2,Australia New South Wales League 2,1721728800,23/07/2024,07:00,Fraser Park,Mounties Wanderers,3.7,4.0,1.7,3.75,4.0,1.666,0.75,1.925,1.875,0.75,1.925,1.875,3.75,1.9,1.9,3.75,1.9,1.9
+8537743,1764,UK Friendlies,1721760300,23/07/2024,15:45,Halesowen,Solihull Moors,3.5,4.4,1.666,3.5,4.4,1.666,,,,,,,,,,,,
+8537744,1764,UK Friendlies,1721759400,23/07/2024,15:30,Newry City,Dungannon Swifts,4.0,4.333,1.571,4.0,4.333,1.571,,,,,,,,,,,,
+8537776,29203,Australia Queensland Premier League 3,1721730600,23/07/2024,07:30,Mount Gravatt Hawks,Springfield United,1.727,4.0,3.5,1.727,4.0,3.5,-0.75,2.0,1.8,-0.75,2.0,1.8,4.0,1.9,1.9,4.0,1.9,1.9
+8537778,363,Europe Friendlies,1721757600,23/07/2024,15:00,VV Eemdijk,Spakenburg,6.25,6.0,1.27,6.25,6.0,1.27,,,,,,,,,,,,
+8537779,363,Europe Friendlies,1721752200,23/07/2024,13:30,LAC Inter,Sportunion Mauer,6.25,6.25,1.27,8.0,6.25,1.222,,,,,,,,,,,,
+8537780,363,Europe Friendlies,1721755800,23/07/2024,14:30,VfL 07 Bremen,BTS Neustadt,2.7,4.5,1.909,2.7,4.5,1.909,,,,,,,,,,,,
+8537823,30228,New Zealand Northern League,1721804400,24/07/2024,04:00,Auckland City,West Coast Rangers,1.071,10.0,17.0,1.071,10.0,17.0,,,,,,,,,,,,
+8537876,363,Europe Friendlies,1721754000,23/07/2024,14:00,SC Schwaz,SPG MotzSilz,1.5,4.0,5.0,1.5,4.1,4.75,,,,,,,,,,,,
+8537879,32721,Malaysia MFL Cup,1721737800,23/07/2024,09:30,Kelantan Darul Naim U23,Penang U23,1.444,4.5,5.0,1.444,4.5,5.0,,,,,,,,,,,,
+8537987,363,Europe Friendlies,1721754000,23/07/2024,14:00,Villarreal B,Lleida,1.533,3.75,5.0,1.533,3.7,5.25,,,,,,,,,,,,
+8538134,36295,Ireland U20 League,1721758500,23/07/2024,15:15,Bohemians Dublin U20,UCD U20,1.909,3.75,3.1,1.909,3.75,3.1,,,,,,,,,,,,
+8538145,974,AFF U19 Championship,1721737800,23/07/2024,09:30,Indonesia U19,Timor Leste U19,1.062,10.0,34.0,1.05,11.0,41.0,-3.5,1.975,1.825,-3.5,1.9,1.9,4.0,1.9,1.9,4.0,1.8,2.0
+8538152,1764,UK Friendlies,1721728800,23/07/2024,07:00,Bristol Rovers,Bromley,1.666,3.9,3.8,1.666,3.9,3.8,-0.75,1.9,1.9,-0.75,1.9,1.9,3.0,1.9,1.9,3.0,1.9,1.9
+8538232,23596,America Friendlies,1721865600,24/07/2024,21:00,MLS All Stars,Liga MX All Stars,2.35,3.75,2.6,2.35,3.75,2.6,,,,,,,,,,,,
+8538594,16820,Iraq League,1721752200,23/07/2024,13:30,Duhok,Al Najaf,2.75,2.875,2.5,2.75,2.875,2.5,,,,,,,,,,,,
+8538712,251,Venezuela Primera Division,1721780100,23/07/2024,21:15,Angostura FC,Estudiantes Merida,1.85,3.3,3.6,1.85,3.3,3.6,-0.5,1.95,1.85,-0.5,1.95,1.85,2.5,2.0,1.8,2.5,2.0,1.8
+8538836,3756,Friendly Match  80 mins play,1721680200,22/07/2024,17:30,Saudi Arabia U20,Villarreal U20,4.5,3.75,1.6,4.2,3.7,1.65,0.75,2.025,1.775,0.75,1.9,1.9,3.0,2.0,1.8,2.75,1.75,1.95
+8539907,363,Europe Friendlies,1721744100,23/07/2024,11:15,Norrby IF,Jonkopings Sodra,,,,,,,,,,,,,,,,,,
+8539941,37533,Argentina Nacional Reserve League,1721757600,23/07/2024,15:00,CA San Telmo Reserves,CA Atlanta Reserves,2.15,3.3,3.0,2.15,3.3,3.0,,,,,,,,,,,,
+8539973,450,Brazil U20 League,1721689200,22/07/2024,20:00,Nacional de Patos U20,Auto Esporte U20,3.9,4.0,1.666,2.5,3.6,2.3,0.25,1.725,2.075,0.25,1.725,2.075,3.25,1.925,1.875,3.25,1.925,1.875
+8540048,115,Brazil Campeonato Paulista U20,1721757600,23/07/2024,15:00,Botafogo SP U20,Ibrachina U20,1.85,3.5,3.5,1.85,3.5,3.5,,,,,,,,,,,,
+8540054,450,Brazil U20 League,1721757600,23/07/2024,15:00,Cariri U20,Crato U20,2.15,3.2,3.0,2.15,3.2,3.0,,,,,,,,,,,,
+8540068,16869,Paraguay Women League,1721743200,23/07/2024,11:00,Sol de America Women,Cerro Porteno Women,17.0,10.0,1.055,17.0,10.0,1.055,,,,,,,,,,,,
+8540201,2175,CONCACAF U20 Championship,1721764800,23/07/2024,17:00,Canada U20,Dominican Republic U20,1.55,4.0,4.5,1.4,4.2,6.0,,,,,,,,,,,,
+8540215,2175,CONCACAF U20 Championship,1721764800,23/07/2024,17:00,El Salvador U20,Honduras U20,2.5,3.4,2.5,3.0,3.4,2.1,,,,,,,,,,,,
+8540364,13926,Club Friendly List,1721728800,23/07/2024,07:00,FK Radnik Surdulica,FK Zemun,,,,,,,,,,,,,,,,,,
